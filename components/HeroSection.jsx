@@ -27,7 +27,7 @@ export default function HeroSection() {
 
           <div className="inline-block lg:bg-black/20 px-6 py-3 rounded-md mb-5">
             <h1 className="text-3xl lg:text-2xl xl:text-3xl font-extrabold tracking-wide">
-              Sobha Parq City
+              Sobha Parqcity
             </h1>
           </div>
 
@@ -48,17 +48,17 @@ export default function HeroSection() {
             </div>
             <div className="border lg:bg-white/10 lg:border-white/20 backdrop-blur-sm rounded-xl py-3 px-5 text-center">
               <p className="text-sm lg:text-white/70">Total Units</p>
-              <p className="text-xl font-extrabold">1300 Units</p>
+              <p className="text-xl font-extrabold">4,463 Units</p>
             </div>
           </div>
 
           <p className="w-full text-white rounded-full py-3 lg:py-0 bg-primary  lg:!bg-none text-md lg:text-xl font-bold mt-3 mb-7">
-  2, 3, 3.5 & 4 BHK Apartment
+  1, 2, 3 & 4 BHK Apartment
 </p>
 
           {/* Price */}
           <p className="text-2xl lg:text-3xl font-extrabold mb-3 lg:bg-black/20 lg:px-4 lg:py-2 lg:inline-block rounded-md">
-            ₹ 2.38 Cr. Onwards
+            ₹ 1.1 Cr. Onwards
           </p>
 
           {/* CTA Components */}

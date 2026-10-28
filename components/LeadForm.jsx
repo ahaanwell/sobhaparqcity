@@ -28,7 +28,7 @@ function LeadForm() {
         number,
         country_code: countryCode,
         company_email: "info@searchmyspace.in",
-        project_name: "Sobha Parq City",
+        project_name: "Sobha Parqcity",
       };
       try {
         const res = await fetch("https://m2nserver.online/send-lead", {

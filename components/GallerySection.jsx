@@ -4,14 +4,14 @@ import { useState } from "react";
 import { FaTimes, FaChevronLeft, FaChevronRight, FaExpand } from "react-icons/fa";
 
 const galleryImages = [
-  { id: 1,  src: "./images/banners/sobhaparqcity.webp",  alt: "Sobha Parq City" },
-  { id: 2,  src: "./images/banners/sobha-parq-city.webp",  alt: "Sobha Parq City" },
-  { id: 3,  src: "./images/banners/sobha-parqcity.webp",  alt: "Sobha Parq City" },
-  { id: 4,  src: "./images/gallery/image1.webp",  alt: "Sobha Parq City" },
-  { id: 5,  src: "./images/gallery/image2.webp",  alt: "Sobha Parq City" },
-  { id: 6,  src: "./images/gallery/image3.webp",  alt: "Sobha Parq City" },
-  { id: 7,  src: "./images/gallery/image4.webp",  alt: "Sobha Parq City" },
-  { id: 8,  src: "./images/gallery/image5.webp",  alt: "Sobha Parq City" },
+  { id: 1,  src: "./images/banners/sobhaparqcity.webp",  alt: "Sobha Parqcity" },
+  { id: 2,  src: "./images/banners/sobha-parq-city.webp",  alt: "Sobha Parqcity" },
+  { id: 3,  src: "./images/banners/sobha-parqcity.webp",  alt: "Sobha Parqcity" },
+  { id: 4,  src: "./images/gallery/image1.webp",  alt: "Sobha Parqcity" },
+  { id: 5,  src: "./images/gallery/image2.webp",  alt: "Sobha Parqcity" },
+  { id: 6,  src: "./images/gallery/image3.webp",  alt: "Sobha Parqcity" },
+  { id: 7,  src: "./images/gallery/image4.webp",  alt: "Sobha Parqcity" },
+  { id: 8,  src: "./images/gallery/image5.webp",  alt: "Sobha Parqcity" },
 ];
 
 export default function GallerySection() {
@@ -43,14 +43,14 @@ export default function GallerySection() {
           id="gallery-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parq City Gallery
+          Sobha Parqcity Gallery
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-10" />
 
         <div
           className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3 md:gap-4"
-          aria-label="Sobha Parq City project gallery"
+          aria-label="Sobha Parqcity project gallery"
         >
           {galleryImages.map((img, index) => (
             <div

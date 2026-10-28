@@ -201,13 +201,13 @@ function BangalorePage({ faqs = [] }) {
 
         <section className="mt-10 rounded-xl bg-gray-50 p-5 md:p-7">
           <h2 className="text-xl font-semibold text-gray-900 md:text-2xl">
-            Sobha Parq City on Hennur Main Road
+            Sobha Parqcity on Hennur Main Road
           </h2>
           <p className="mt-4 leading-7 text-gray-800">
-            This website also covers Sobha Parq City, a proposed township on Hennur Main Road in North Bangalore. Its supplied project information describes approximately 50 acres, 12 towers, around 1,300 apartments, 2 to 4 BHK configurations and a starting price of ₹2.38 crore. These details are preliminary and should be confirmed through current official disclosures.
+            This website also covers Sobha Parqcity, a proposed township on Hennur Main Road in North Bangalore. Its supplied project information describes approximately 50 acres, 12 blocks, 24 wings, around 4,463 apartments, a floor structure of 3 basements + ground + 42 floors, 1 to 4 BHK configurations and a starting price of ₹1.1 crore. These details are preliminary and should be confirmed through current official disclosures.
           </p>
           <p className="mt-4 leading-7 text-gray-800">
-            Explore the <IntLink href="/">Sobha Parq City overview</IntLink>, review its <IntLink href="/location">location information</IntLink>, or contact us to request current project material.
+            Explore the <IntLink href="/">Sobha Parqcity overview</IntLink>, review its <IntLink href="/location">location information</IntLink>, or contact us to request current project material.
           </p>
           <div className="mt-5">
             <DownloadActions />

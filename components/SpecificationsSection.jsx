@@ -13,7 +13,7 @@ export default function SpecificationsSection() {
           id="specifications-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parq City Specifications
+          Sobha Parqcity Specifications
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -26,17 +26,17 @@ export default function SpecificationsSection() {
               loading="lazy"
             />
   <p>
-    The <strong>Sobha Parq City Specifications</strong> provide an overview of the proposed residential township by Sobha Group on Hennur Main Road, North Bangalore. The development is planned across approximately 50 acres, with 12 residential towers and around 1,300 residential units. The project is proposed to offer 2, 3, 3.5 and 4 BHK apartments to accommodate different household sizes and space requirements.
+    The <strong>Sobha Parqcity Specifications</strong> provide an overview of the proposed residential township by Sobha Group on Hennur Main Road, North Bangalore. The development is planned across approximately 50 acres, with 12 blocks, 24 wings and around 4,463 residential units. Its supplied floor structure is 3 basements + ground + 42 floors. The project is proposed to offer 1, 2, 3 and 4 BHK apartments to accommodate different household sizes and space requirements.
   </p>
 
   <p>
-    The project is currently in the pre-launch stage, with towers planned to range from G+36 to G+42 floors. Apartment sizes are stated to range from 1,400 sq. ft. to 2,600 sq. ft. across the listed configurations. As the project remains at an early stage and its RERA status is listed as applied, prospective buyers should confirm the final specifications, approved plans and official project documents before making a purchase decision.
+    The project is currently in the pre-launch stage, with 24 wings and a supplied floor structure of 3 basements + ground + 42 floors. Apartment sizes are stated to range from 750 sq. ft. to 2,600 sq. ft. across the listed configurations. As the project remains at an early stage and its RERA status is listed as applied, prospective buyers should confirm the final specifications, approved plans and official project documents before making a purchase decision.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Project Specifications</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Project Specifications</h3>
 
   <p>
-    The key Sobha Parq City project specifications summarise the proposed development's scale, apartment configurations, location and current status.
+    The key Sobha Parqcity project specifications summarise the proposed development's scale, apartment configurations, location and current status.
   </p>
 
   <div className="overflow-x-auto">
@@ -50,7 +50,7 @@ export default function SpecificationsSection() {
       <tbody>
         <tr>
           <td className="border border-gray-300 p-3">Project Name</td>
-          <td className="border border-gray-300 p-3">Sobha Parq City</td>
+          <td className="border border-gray-300 p-3">Sobha Parqcity</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Developer</td>
@@ -73,16 +73,20 @@ export default function SpecificationsSection() {
           <td className="border border-gray-300 p-3">Approximately 50 Acres</td>
         </tr>
         <tr>
-          <td className="border border-gray-300 p-3">Total Towers</td>
+          <td className="border border-gray-300 p-3">Total Wings</td>
+          <td className="border border-gray-300 p-3">24</td>
+        </tr>
+        <tr>
+          <td className="border border-gray-300 p-3">Total Blocks</td>
           <td className="border border-gray-300 p-3">12</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Total Residential Units</td>
-          <td className="border border-gray-300 p-3">Approximately 1,300</td>
+          <td className="border border-gray-300 p-3">Approximately 4,463</td>
         </tr>
         <tr>
-          <td className="border border-gray-300 p-3">Tower Configuration</td>
-          <td className="border border-gray-300 p-3">G+36 to G+42 Floors</td>
+          <td className="border border-gray-300 p-3">Floor Structure</td>
+          <td className="border border-gray-300 p-3">3 Basements + Ground + 42 Floors</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Residential Options</td>
@@ -90,15 +94,15 @@ export default function SpecificationsSection() {
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Apartment Configurations</td>
-          <td className="border border-gray-300 p-3">2, 3, 3.5 and 4 BHK</td>
+          <td className="border border-gray-300 p-3">1, 2, 3 and 4 BHK</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Apartment Size Range</td>
-          <td className="border border-gray-300 p-3">1,400–2,600 sq. ft.</td>
+          <td className="border border-gray-300 p-3">750–2,600 sq. ft.</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Starting Price</td>
-          <td className="border border-gray-300 p-3">₹2.38 Crore Onwards</td>
+          <td className="border border-gray-300 p-3">₹1.1 Crore Onwards</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">RERA Status</td>
@@ -106,16 +110,16 @@ export default function SpecificationsSection() {
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Expected Possession</td>
-          <td className="border border-gray-300 p-3">2032</td>
+          <td className="border border-gray-300 p-3">2031</td>
         </tr>
       </tbody>
     </table>
   </div>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Apartment Specifications</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Apartment Specifications</h3>
 
   <p>
-    Sobha Parq City is planned to offer 2, 3, 3.5 and 4 BHK apartments with different stated size ranges. These configurations provide options for buyers seeking varying amounts of residential space. The final room layouts, internal dimensions and detailed specifications should be checked against the approved floor plans and official project brochure once available.
+    Sobha Parqcity is planned to offer 1, 2, 3 and 4 BHK apartments with different stated size ranges. These configurations provide options for buyers seeking varying amounts of residential space. The final room layouts, internal dimensions and detailed specifications should be checked against the approved floor plans and official project brochure once available.
   </p>
 
   <div className="overflow-x-auto">
@@ -128,16 +132,16 @@ export default function SpecificationsSection() {
       </thead>
       <tbody>
         <tr>
+          <td className="border border-gray-300 p-3">1 BHK Apartment</td>
+          <td className="border border-gray-300 p-3">750 sq. ft.</td>
+        </tr>
+        <tr>
           <td className="border border-gray-300 p-3">2 BHK Apartment</td>
           <td className="border border-gray-300 p-3">1,400 sq. ft.</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">3 BHK Apartment</td>
           <td className="border border-gray-300 p-3">1,750–1,950 sq. ft.</td>
-        </tr>
-        <tr>
-          <td className="border border-gray-300 p-3">3.5 BHK Apartment</td>
-          <td className="border border-gray-300 p-3">2,250–2,400 sq. ft.</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">4 BHK Apartment</td>
@@ -151,26 +155,26 @@ export default function SpecificationsSection() {
     The supplied project details do not specify whether these areas represent carpet area, built-up area or super built-up area. Buyers should confirm the applicable area measurement and the exact room configuration for their preferred apartment.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Tower Specifications</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Tower Specifications</h3>
 
   <p>
-    The proposed township includes 12 residential towers, with configurations ranging from G+36 to G+42 floors. This indicates a planned high-rise residential development across the larger township. The final distribution of floors among individual towers, building layouts and approved construction details should be verified through the developer's official project documentation.
+    The proposed township includes 24 residential wings, with a supplied floor structure of 3 basements + ground + 42 floors. The final distribution, building layouts and approved construction details should be verified through the developer's official project documentation.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Construction and Approval Status</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Construction and Approval Status</h3>
 
   <p>
-    Sobha Parq City is currently described as a pre-launch residential project, with its RERA status listed as applied and possession planned for 2032. These details should be treated as provisional until confirmed through official project documentation and the applicable registration records.
+    Sobha Parqcity is currently described as a pre-launch residential project, with its RERA status listed as applied and possession planned for 2031. These details should be treated as provisional until confirmed through official project documentation and the applicable registration records.
   </p>
 
   <p>
     Before proceeding with a purchase, buyers should review the approved building plans, construction specifications, applicable approvals, area details and the latest possession timeline. Confirming these documents can help establish which project features and specifications have been formally approved.
   </p>
 
-  <h3 className="text-xl font-bold">What to Check in Sobha Parq City Specifications</h3>
+  <h3 className="text-xl font-bold">What to Check in Sobha Parqcity Specifications</h3>
 
   <p>
-    When reviewing Sobha Parq City specifications, prospective buyers should pay attention to the following details:
+    When reviewing Sobha Parqcity specifications, prospective buyers should pay attention to the following details:
   </p>
 
   <ul className="list-disc space-y-2 pl-6">

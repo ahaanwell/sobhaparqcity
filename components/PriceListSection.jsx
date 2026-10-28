@@ -3,9 +3,9 @@ import { IntLink, ExtLink } from "./SeoLinks";
 import DownloadCostSheetActions from "./DownloadCostSheetActions";
 
 const priceData = [
+  { type: "1 BHK",        size: "750 Sq.ft",    price: "₹1.1 Cr* onwards" },
   { type: "2 BHK",        size: "1400 Sq.ft",    price: "₹2.38 Cr* onwards" },
   { type: "3 BHK",        size: "1750 - 1950 Sq.ft",    price: "₹2.97 Cr* onwards" },
-  { type: "3.5 BHK",        size: "2250 - 2400 Sq.ft",  price: "₹3.8 Cr* onwards" },
   { type: "4 BHK",  size: "2600 Sq.ft",  price: "₹4.40 Cr* onwards" },
 ];
 
@@ -30,11 +30,11 @@ export default function PriceListSection() {
 
 <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <a href="https://www.sobhaparqcity.in/price"><strong>Sobha Parq City price</strong></a> starts at <b>₹2.38 crore onwards</b> for a <b>2 BHK apartment</b>, with higher starting prices for larger apartment configurations. Developed by Sobha Group, this proposed residential township on <b>Hennur Main Road, North Bangalore</b>, is planned to offer multiple apartment options for buyers exploring residential properties. The indicative prices vary according to the apartment size and configuration selected.
+    The <a href="https://www.sobhaparqcity.in/price"><strong>Sobha Parqcity price</strong></a> starts at <b>₹1.1 crore onwards</b> for a <b>1 BHK apartment of approximately 750 sq. ft.</b>, with higher starting prices for larger apartment configurations. Developed by Sobha Group, this proposed residential township on <b>Hennur Main Road, North Bangalore</b>, is planned to offer multiple apartment options for buyers exploring residential properties. The indicative prices vary according to the apartment size and configuration selected.
   </p>
 
   <p>
-    The starting price for a <b>3 BHK apartment is ₹2.97 crore</b>, while <b>3.5 BHK apartments start at ₹3.80 crore onwards</b>. The proposed starting price for a <b>4 BHK apartment is ₹4.40 crore onwards</b>. These prices provide an initial reference for comparing the available apartment options, but the final cost should be confirmed through the latest official price list.
+    The starting price for a <b>2 BHK apartment is ₹2.38 crore</b>, for a <b>3 BHK apartment is ₹2.97 crore</b>, and for a <b>4 BHK apartment is ₹4.40 crore onwards</b>. These prices provide an initial reference for comparing the proposed apartment options, but the final cost should be confirmed through the latest official price list.
   </p>
 </div>
 
@@ -74,7 +74,7 @@ export default function PriceListSection() {
             <img 
             className="w-full"
             loading="lazy"
-            src="/images/costing-details.webp" alt="Sobha Parq City price list and cost sheet, Sarjapur Bangalore" />
+            src="/images/costing-details.webp" alt="Sobha Parqcity price list and cost sheet, Hennur Main Road, Bangalore" />
             <DownloadCostSheetActions/>
           </div>
 
@@ -82,10 +82,10 @@ export default function PriceListSection() {
         
 
 <div className="space-y-6 text-gray-800 mt-6">
-  <h3 className="text-xl font-bold">Factors That Affect the Final Price of Sobha Parq City</h3>
+  <h3 className="text-xl font-bold">Factors That Affect the Final Price of Sobha Parqcity</h3>
 
   <p>
-    The final purchase cost of an apartment at <b>Sobha Parq City</b> may vary depending on the selected unit, its size, floor level and other terms specified in the official price sheet. Buyers should also account for applicable taxes, registration charges, stamp duty and any additional costs disclosed by the developer.
+    The final purchase cost of an apartment at <b>Sobha Parqcity</b> may vary depending on the selected unit, its size, floor level and other terms specified in the official price sheet. Buyers should also account for applicable taxes, registration charges, stamp duty and any additional costs disclosed by the developer.
   </p>
 
   <p>

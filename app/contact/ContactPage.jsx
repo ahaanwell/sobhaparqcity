@@ -57,11 +57,11 @@ function ContactPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Get in Touch About Sobha Parq City – Prices, Brochure & Site Visits
+            Get in Touch About Sobha Parqcity – Prices, Brochure & Site Visits
           </h1>
 
           <p className="mt-6 text-gray-800 text-center max-w-3xl mx-auto">
-            Have a question about <IntLink href="/"><strong>Sobha Parq City</strong></IntLink>, the proposed <ExtLink href="https://www.sobha.com/"><strong>Sobha Group</strong></ExtLink> project on <IntLink href="/location"><strong>Hennur Main Road in North Bangalore</strong></IntLink>? Message us on WhatsApp, give us a call, or leave your details in the form below, whichever is easiest for you.
+            Have a question about <IntLink href="/"><strong>Sobha Parqcity</strong></IntLink>, the proposed <ExtLink href="https://www.sobha.com/"><strong>Sobha Group</strong></ExtLink> project on <IntLink href="/location"><strong>Hennur Main Road in North Bangalore</strong></IntLink>? Message us on WhatsApp, give us a call, or leave your details in the form below, whichever is easiest for you.
           </p>
 
           {/* Contact cards */}
@@ -107,7 +107,7 @@ function ContactPage() {
                 allowFullScreen
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
-                title="Map of Hennur Main Road, North Bangalore – Sobha Parq City project area"
+                title="Map of Hennur Main Road, North Bangalore – Sobha Parqcity project area"
               />
             </div>
           </div>
@@ -118,7 +118,7 @@ function ContactPage() {
                 What You Can Request
               </h2>
               <p className="mt-4 text-gray-800">
-                Sobha Parq City is proposed across approximately 50 acres, with 12 towers and around 1,300 apartments. Planned configurations include 2, 3, 3.5 and 4 BHK homes, with the supplied starting price at ₹2.38 crore and possession planned for 2032. Ask us for any of the following:
+                Sobha Parqcity is proposed across approximately 50 acres, with 12 blocks, 24 wings, around 4,463 apartments and a floor structure of 3 basements + ground + 42 floors. Planned configurations include 1, 2, 3 and 4 BHK homes, with the supplied starting price at ₹1.1 crore and possession planned for 2031. Ask us for any of the following:
               </p>
               <div className="mt-4 overflow-x-auto">
                 <table className="w-full border-collapse text-left text-gray-800">
@@ -157,7 +157,7 @@ function ContactPage() {
                 One Last Check
               </h2>
               <p className="mt-4 text-gray-800">
-                The details we share are indicative and may change. Before paying any booking amount, look up the project on the <ExtLink href="https://rera.karnataka.gov.in/">Karnataka RERA portal</ExtLink> and get the final price, specifications and payment terms in writing from the developer. Still comparing options? See how Sobha Parq City stacks up against other <IntLink href="/bangalore">Sobha projects in Bangalore</IntLink>.
+                The details we share are indicative and may change. Before paying any booking amount, look up the project on the <ExtLink href="https://rera.karnataka.gov.in/">Karnataka RERA portal</ExtLink> and get the final price, specifications and payment terms in writing from the developer. Still comparing options? See how Sobha Parqcity stacks up against other <IntLink href="/bangalore">Sobha projects in Bangalore</IntLink>.
               </p>
               <p className="mt-4 text-sm text-gray-600">
                 This site is run by a RERA-authorised real estate agent and is not Sobha Limited's official website.

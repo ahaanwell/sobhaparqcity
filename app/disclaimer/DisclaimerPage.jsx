@@ -15,9 +15,9 @@ const keyPoints = [
 ];
 
 const changeable = [
-  [<IntLink key="p" href="/price">Prices</IntLink>, "The currently supplied starting price is ₹2.38 crore. It is indicative; taxes, registration and other charges may apply. Request a current written cost sheet."],
-  ["Project scale", "The proposed development is described as approximately 50 acres, 12 towers and around 1,300 apartments. Confirm these details against approved documents."],
-  ["Possession", "Possession is currently planned for 2032. This is not a confirmed commitment unless reflected in the applicable official project documents."],
+  [<IntLink key="p" href="/price">Prices</IntLink>, "The currently supplied starting price is ₹1.1 crore for a 1 BHK apartment. It is indicative; taxes, registration and other charges may apply. Request a current written cost sheet."],
+  ["Project scale", "The proposed development is described as approximately 50 acres, 12 blocks, 24 wings and around 4,463 apartments. Its supplied floor structure is 3 basements + ground + 42 floors. Confirm these details against approved documents."],
+  ["Possession", "Possession is currently planned for 2031. This is not a confirmed commitment unless reflected in the applicable official project documents."],
   [<IntLink key="f" href="/floor-plan">Floor plans</IntLink>, "Layouts and apartment details are preliminary; the approved plans and written specifications take precedence."],
   [<IntLink key="m" href="/master-plan">Master plan</IntLink>, "The proposed site area and layout may change. Refer to the latest approved master plan."],
   [<IntLink key="a" href="/amenities">Amenities</IntLink>, "The final official amenities list has not been confirmed in the information available to this website."],
@@ -25,9 +25,9 @@ const changeable = [
 ];
 
 const faqs = [
-  ["Is the Sobha Parq City price shown here final?", "No. The currently supplied starting price of ₹2.38 crore is indicative and may not include taxes or other charges. Request the latest written cost sheet and confirm the price for the specific apartment."],
+  ["Is the Sobha Parqcity price shown here final?", "No. The currently supplied starting price of ₹1.1 crore for a 1 BHK apartment is indicative and may not include taxes or other charges. Request the latest written cost sheet and confirm the price for the specific apartment."],
   ["Are the Hennur project images and plans final?", "No. Images and plans on this website are illustrative or preliminary and may not represent the final approved project. Check the latest approved documents and written specifications."],
-  ["Can I book a Sobha Parq City apartment through this website?", "No. This website provides project information and an enquiry channel; it does not accept or confirm bookings. Follow the developer's official booking process and review its application and agreement documents."],
+  ["Can I book a Sobha Parqcity apartment through this website?", "No. This website provides project information and an enquiry channel; it does not accept or confirm bookings. Follow the developer's official booking process and review its application and agreement documents."],
   ["Is this Sobha Group's official website?", <>No. This is an independent project information website and is not operated by Sobha Group or Sobha Limited. The developer's official website is <ExtLink href="https://www.sobha.com/">sobha.com</ExtLink>.</>],
 ];
 
@@ -40,14 +40,14 @@ function DisclaimerPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parq City Information Disclaimer
+            Sobha Parqcity Information Disclaimer
           </h1>
           <p className="mt-2 text-sm text-gray-600 text-center">
             Last updated: {LAST_UPDATED}
           </p>
           <div className="mt-6 space-y-8 text-gray-800">
             <p>
-              This disclaimer explains how to interpret information published on <IntLink href="/"><strong>www.sobhaparqcity.in</strong></IntLink>, an independent website about the proposed Sobha Parq City residential township on Hennur Main Road in North Bangalore. Read it alongside our <IntLink href="/privacy-policy">Privacy Policy</IntLink>. Do not rely on website content as a substitute for current documents from the developer or relevant authorities.
+              This disclaimer explains how to interpret information published on <IntLink href="/"><strong>www.sobhaparqcity.in</strong></IntLink>, an independent website about the proposed Sobha Parqcity residential township on Hennur Main Road in North Bangalore. Read it alongside our <IntLink href="/privacy-policy">Privacy Policy</IntLink>. Do not rely on website content as a substitute for current documents from the developer or relevant authorities.
             </p>
 
             <div className="border-l-4 border-primary bg-gray-50 px-5 py-4">
@@ -62,14 +62,14 @@ function DisclaimerPage() {
             <div>
               <h2 className="text-2xl font-semibold">Who Runs This Website</h2>
               <p className="mt-4">
-                This is an <strong>independent project information website</strong>, not the official website of Sobha Group or Sobha Limited, and is not operated by the developer. It provides general information about <strong>Sobha Parq City</strong>, currently described as a proposed township on <strong>Hennur Main Road in North Bangalore</strong>, and allows visitors to submit enquiries. Project information on this site is based on details available to us and should be independently verified.
+                This is an <strong>independent project information website</strong>, not the official website of Sobha Group or Sobha Limited, and is not operated by the developer. It provides general information about <strong>Sobha Parqcity</strong>, currently described as a proposed township on <strong>Hennur Main Road in North Bangalore</strong>, and allows visitors to submit enquiries. Project information on this site is based on details available to us and should be independently verified.
               </p>
             </div>
 
             <div>
               <h2 className="text-2xl font-semibold">Information That May Change</h2>
               <p className="mt-4">
-                We review the content periodically, but project plans, commercial terms and regulatory details can change. Information about Sobha Parq City—including the proposed 50-acre site, 12 towers, approximately 1,300 apartments, prices and 2032 possession timeline—is <strong>preliminary and subject to confirmation</strong>. The currently supplied starting price is ₹2.38 crore; it is not a final offer. In particular:
+                We review the content periodically, but project plans, commercial terms and regulatory details can change. Information about Sobha Parqcity—including the proposed 50-acre site, 12 blocks, 24 wings, approximately 4,463 apartments, a floor structure of 3 basements + ground + 42 floors, prices and 2031 possession timeline—is <strong>preliminary and subject to confirmation</strong>. The currently supplied starting price is ₹1.1 crore; it is not a final offer. In particular:
               </p>
               <div className="mt-4 overflow-x-auto">
                 <table className="w-full border-collapse text-left">
@@ -127,7 +127,7 @@ function DisclaimerPage() {
             <div>
               <h2 className="text-2xl font-semibold">Names and Logos</h2>
               <p className="mt-4">
-                "Sobha", "Sobha Limited", "Sobha Parq City" and related names and logos belong to their respective owners. We use them only to identify the project we describe. Their use does not suggest ownership, endorsement or any official link beyond our role as an authorised agent.
+                "Sobha", "Sobha Limited", "Sobha Parqcity" and related names and logos belong to their respective owners. We use them only to identify the project we describe. Their use does not suggest ownership, endorsement or any official link beyond our role as an authorised agent.
               </p>
             </div>
 

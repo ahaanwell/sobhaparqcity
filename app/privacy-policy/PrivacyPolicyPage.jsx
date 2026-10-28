@@ -9,7 +9,7 @@ const headCell = "border border-gray-300 px-4 py-3 font-semibold";
 
 const atAGlance = [
   ["What do you collect?", "Your name, mobile number and email when you fill in a form, plus anything you tell us on a call or WhatsApp."],
-  ["Why?", "To send you the Sobha Parq City details you asked for and to help with your home search."],
+  ["Why?", "To send you the Sobha Parqcity details you asked for and to help with your home search."],
   ["Do you sell my data?", "No, never."],
   ["Who else sees it?", "The developer's sales team, the service providers that run this site, and authorities only when the law requires it."],
   ["Can I stop hearing from you?", "Yes, at any time. Just ask."],
@@ -37,14 +37,14 @@ function PrivacyPolicyPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parq City Website Privacy Policy
+            Sobha Parqcity Website Privacy Policy
           </h1>
           <p className="mt-2 text-sm text-gray-600 text-center">
             Last updated: {LAST_UPDATED}
           </p>
           <div className="mt-6 space-y-8 text-gray-800">
             <p>
-              This policy explains how <IntLink href="/"><strong>www.sobhaparqcity.in</strong></IntLink> handles personal information submitted through enquiries about Sobha Parq City, the proposed residential township on <strong>Hennur Main Road in North Bangalore</strong>. This is an independent project information website, not the official website of Sobha Group or Sobha Limited. It describes the information collected, how enquiry details are used and shared, and how you can request access, correction or deletion.
+              This policy explains how <IntLink href="/"><strong>www.sobhaparqcity.in</strong></IntLink> handles personal information submitted through enquiries about Sobha Parqcity, the proposed residential township on <strong>Hennur Main Road in North Bangalore</strong>. This is an independent project information website, not the official website of Sobha Group or Sobha Limited. It describes the information collected, how enquiry details are used and shared, and how you can request access, correction or deletion.
             </p>
 
             <div>
@@ -66,7 +66,7 @@ function PrivacyPolicyPage() {
 
             <div>
               <h2 className="text-2xl font-semibold">What We Collect</h2>
-              <p className="mt-4">When you use an enquiry form or contact us directly, we receive the details you choose to provide so we can respond to your Sobha Parq City enquiry:</p>
+              <p className="mt-4">When you use an enquiry form or contact us directly, we receive the details you choose to provide so we can respond to your Sobha Parqcity enquiry:</p>
               <div className="mt-4 overflow-x-auto">
                 <table className="w-full min-w-140 border-collapse text-left">
                   <thead>
@@ -96,7 +96,7 @@ function PrivacyPolicyPage() {
               <h2 className="text-2xl font-semibold">Why We Use It</h2>
               <p className="mt-4">Your information is used only to help with your property search, for example to:</p>
               <ul className="mt-4 list-disc space-y-2 pl-6">
-                <li>send the Sobha Parq City <IntLink href="/price">price list</IntLink>, <IntLink href="/floor-plan">floor plans</IntLink>, brochure or cost sheet you asked for;</li>
+                <li>send the Sobha Parqcity <IntLink href="/price">price list</IntLink>, <IntLink href="/floor-plan">floor plans</IntLink>, brochure or cost sheet you asked for;</li>
                 <li>respond to requests for information or help arrange a <strong>site visit near Hennur Main Road</strong>;</li>
                 <li>answer questions on booking, payment plans and availability; and</li>
                 <li>let you know about launch updates, offers or similar <IntLink href="/bangalore">Sobha projects in Bangalore</IntLink> that suit your needs.</li>

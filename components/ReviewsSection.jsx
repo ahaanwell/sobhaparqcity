@@ -13,7 +13,7 @@ export default function ReviewsSection() {
           id="reviews-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parq City Reviews
+          Sobha Parqcity Reviews
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -25,45 +25,45 @@ export default function ReviewsSection() {
               alt="Reviews"
               loading="lazy"
             />
-  <p><strong>Sobha Parq City Reviews</strong> are an important consideration for prospective homebuyers who want to evaluate the proposed development before making a purchase decision. Buyers typically assess the developer's background, project planning, apartment specifications, location, pricing, expected possession and suitability for their long-term residential needs.</p>
+  <p><strong>Sobha Parqcity Reviews</strong> are an important consideration for prospective homebuyers who want to evaluate the proposed development before making a purchase decision. Buyers typically assess the developer's background, project planning, apartment specifications, location, pricing, expected possession and suitability for their long-term residential needs.</p>
 
-  <p>Sobha Parq City is currently described as a pre-launch residential project, with its RERA status listed as applied. The available project information does not include verified resident reviews, confirmed buyer testimonials or an independently established project-specific customer rating. Therefore, a review score or claims about actual residents' experiences should not be presented as confirmed information.</p>
+  <p>Sobha Parqcity is currently described as a pre-launch residential project, with its RERA status listed as applied. The available project information does not include verified resident reviews, confirmed buyer testimonials or an independently established project-specific customer rating. Therefore, a review score or claims about actual residents' experiences should not be presented as confirmed information.</p>
 
-  <p>Until reliable project-specific feedback becomes available, prospective buyers can evaluate the stated project details, review relevant completed developments by Sobha Group and independently verify the documents and approvals associated with Sobha Parq City.</p>
+  <p>Until reliable project-specific feedback becomes available, prospective buyers can evaluate the stated project details, review relevant completed developments by Sobha Group and independently verify the documents and approvals associated with Sobha Parqcity.</p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Project Review</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Project Review</h3>
 
-  <p>Sobha Parq City is a proposed residential township on Hennur Main Road in North Bangalore, covering approximately 50 acres. The development is planned to include 12 residential towers and around 1,300 apartments, with tower configurations ranging from G+36 to G+42 floors.</p>
+  <p>Sobha Parqcity is a proposed residential township on Hennur Main Road in North Bangalore, covering approximately 50 acres. The development is planned to include 12 blocks, 24 wings and around 4,463 apartments, with a floor structure of 3 basements + ground + 42 floors.</p>
 
-  <p>The proposed apartment configurations include 2, 3, 3.5 and 4 BHK homes, with stated sizes ranging from 1,400 to 2,600 sq. ft. These details provide an initial basis for assessing the project's proposed scale and residential choices.</p>
+  <p>The proposed apartment configurations include 1, 2, 3 and 4 BHK homes, with stated sizes ranging from 750 to 2,600 sq. ft. These details provide an initial basis for assessing the project's proposed scale and residential choices.</p>
 
   <p>However, the overall quality and suitability of the development cannot be determined from the project overview alone. Buyers should review the final master plan, approved floor plans, construction specifications, common facilities and other details included in the official project documentation.</p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Builder Review</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Builder Review</h3>
 
-  <p>Sobha Group is the stated developer of Sobha Parq City. When reviewing a residential project, buyers can consider the developer's completed developments, documented delivery history, construction standards and customer service record.</p>
+  <p>Sobha Group is the stated developer of Sobha Parqcity. When reviewing a residential project, buyers can consider the developer's completed developments, documented delivery history, construction standards and customer service record.</p>
 
-  <p>It is important to distinguish the developer's broader track record from the status of Sobha Parq City itself. Feedback about other developments does not independently establish the construction quality, delivery performance or future resident satisfaction of this proposed project.</p>
+  <p>It is important to distinguish the developer's broader track record from the status of Sobha Parqcity itself. Feedback about other developments does not independently establish the construction quality, delivery performance or future resident satisfaction of this proposed project.</p>
 
   <p>Prospective buyers can visit relevant completed developments where possible, examine the quality of common areas and apartment finishes, and seek verifiable information about maintenance and post-handover services. Project-specific claims should be checked against official documentation rather than relying solely on promotional descriptions.</p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Location Review</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Location Review</h3>
 
-  <p>The proposed location on Hennur Main Road provides a starting point for evaluating Sobha Parq City within North Bangalore. Buyers can assess whether the surrounding area, available road connections and nearby services suit their daily travel, family requirements and preferred residential environment.</p>
+  <p>The proposed location on Hennur Main Road provides a starting point for evaluating Sobha Parqcity within North Bangalore. Buyers can assess whether the surrounding area, available road connections and nearby services suit their daily travel, family requirements and preferred residential environment.</p>
 
   <p>A practical location review should consider the exact project entrance, access roads, traffic conditions, public transport availability and routes to regular destinations such as workplaces, schools, hospitals and shopping facilities.</p>
 
   <p>These factors are best assessed using a verified project address and current route information. General descriptions of North Bangalore alone cannot establish the convenience of the location for every buyer.</p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Apartment and Layout Review</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Apartment and Layout Review</h3>
 
-  <p>The proposed apartment configurations at Sobha Parq City include 2, 3, 3.5 and 4 BHK homes, with stated sizes ranging from 1,400 to 2,600 sq. ft. These options allow buyers to compare different space requirements and budgets.</p>
+  <p>The proposed apartment configurations at Sobha Parqcity include 1, 2, 3 and 4 BHK homes, with stated sizes ranging from 750 to 2,600 sq. ft. These options allow buyers to compare different space requirements and budgets.</p>
 
   <p>Before selecting an apartment, buyers should examine the official floor plan, room dimensions, usable space, ventilation, natural light, storage provisions and the arrangement of living areas. The exact area measurement used for the stated sizes should also be confirmed.</p>
 
   <p>Buyers should additionally review the apartment's floor level, orientation, view, privacy and proximity to lifts or common facilities where this information is available. The final suitability of a layout will depend on the approved plan and the household's specific requirements.</p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Pros and Considerations</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Pros and Considerations</h3>
 
   <p>The following comparison summarises the main proposed features and the details prospective buyers should verify before making a decision.</p>
 
@@ -85,7 +85,7 @@ export default function ReviewsSection() {
           <td className="border border-gray-300 p-3">Confirmed unit availability and layouts</td>
         </tr>
         <tr>
-          <td className="border border-gray-300 p-3">2, 3, 3.5 and 4 BHK options</td>
+          <td className="border border-gray-300 p-3">1, 2, 3 and 4 BHK options</td>
           <td className="border border-gray-300 p-3">Final specifications and area measurements</td>
         </tr>
         <tr>
@@ -93,15 +93,15 @@ export default function ReviewsSection() {
           <td className="border border-gray-300 p-3">Exact project address and practical travel routes</td>
         </tr>
         <tr>
-          <td className="border border-gray-300 p-3">Proposed 12-tower development</td>
-          <td className="border border-gray-300 p-3">Approved tower plans and construction details</td>
+          <td className="border border-gray-300 p-3">Proposed 12-block, 24-wing development</td>
+          <td className="border border-gray-300 p-3">Approved wing plans and construction details</td>
         </tr>
         <tr>
-          <td className="border border-gray-300 p-3">Tower configurations from G+36 to G+42 floors</td>
+          <td className="border border-gray-300 p-3">Floor structure of 3 basements + ground + 42 floors</td>
           <td className="border border-gray-300 p-3">Final approved building plans</td>
         </tr>
         <tr>
-          <td className="border border-gray-300 p-3">Possession planned for 2032</td>
+          <td className="border border-gray-300 p-3">Possession planned for 2031</td>
           <td className="border border-gray-300 p-3">Official possession commitments and contractual terms</td>
         </tr>
         <tr>
@@ -114,7 +114,7 @@ export default function ReviewsSection() {
 
   <p>This comparison outlines the project's proposed characteristics and the information buyers should check. It is not a summary of confirmed resident feedback or an independent assessment of construction quality.</p>
 
-  <h3 className="text-xl font-bold">How to Check Sobha Parq City Reviews Before Booking</h3>
+  <h3 className="text-xl font-bold">How to Check Sobha Parqcity Reviews Before Booking</h3>
 
   <p>Before making a purchase decision, prospective buyers can follow these practical steps to evaluate the project and the developer.</p>
 
@@ -130,13 +130,13 @@ export default function ReviewsSection() {
 
   <p>These checks can help buyers form an independent assessment instead of relying only on general online opinions or promotional content.</p>
 
-  <h3 className="text-xl font-bold">Final Review of Sobha Parq City</h3>
+  <h3 className="text-xl font-bold">Final Review of Sobha Parqcity</h3>
 
-  <p>Sobha Parq City is a proposed residential township on Hennur Main Road in North Bangalore, planned across approximately 50 acres with 12 residential towers and around 1,300 apartments. Its proposed range of 2, 3, 3.5 and 4 BHK configurations provides different options for homebuyers to consider.</p>
+  <p>Sobha Parqcity is a proposed residential township on Hennur Main Road in North Bangalore, planned across approximately 50 acres with 24 wings and around 4,463 apartments. Its proposed range of 1, 2, 3 and 4 BHK configurations provides different options for homebuyers to consider.</p>
 
-  <p>However, the project is described as pre-launch, its RERA status is listed as applied, and the supplied information does not establish a verified project-specific review rating or confirmed resident testimonials. The stated possession timeline is 2032 and should be checked against the latest official project documents.</p>
+  <p>However, the project is described as pre-launch, its RERA status is listed as applied, and the supplied information does not establish a verified project-specific review rating or confirmed resident testimonials. The stated possession timeline is 2031 and should be checked against the latest official project documents.</p>
 
-  <p>Prospective buyers should verify the current registration status, applicable approvals, final apartment specifications, pricing and possession commitments before proceeding. Reviewing completed developments by the developer and checking project documents independently will provide a more reliable basis for evaluating Sobha Parq City than unverified ratings or testimonials.</p>
+  <p>Prospective buyers should verify the current registration status, applicable approvals, final apartment specifications, pricing and possession commitments before proceeding. Reviewing completed developments by the developer and checking project documents independently will provide a more reliable basis for evaluating Sobha Parqcity than unverified ratings or testimonials.</p>
 </div>
 
       </div>

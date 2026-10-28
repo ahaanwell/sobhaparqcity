@@ -2,20 +2,20 @@ import { JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import DisclaimerPage from "./DisclaimerPage";
 
 const PATH = "/disclaimer";
-const TITLE = "Sobha Parq City Disclaimer | Hennur Project Information";
+const TITLE = "Sobha Parqcity Disclaimer | Hennur Project Information";
 const DESCRIPTION =
-  "Read the Sobha Parq City website disclaimer. Project details for the proposed Hennur Main Road township, including prices, plans, images and timelines, are indicative and should be verified.";
+  "Read the Sobha Parqcity website disclaimer. Project details for the proposed Hennur Main Road township, including prices, plans, images and timelines, are indicative and should be verified.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parq City disclaimer",
+    "Sobha Parqcity disclaimer",
     "sobhaparqcity.in disclaimer",
-    "Sobha Parq City project information disclaimer",
-    "Sobha Parq City Hennur disclaimer",
-    "Sobha Parq City indicative prices and plans",
+    "Sobha Parqcity project information disclaimer",
+    "Sobha Parqcity Hennur disclaimer",
+    "Sobha Parqcity indicative prices and plans",
   ],
 });
 

@@ -82,7 +82,7 @@ export default function EMICalculator() {
       <div className="w-full max-w-5xl relative mt-6">
         <div className="text-center">
           <h2 className="text-2xl font-semibold text-gray-900 text-center mb-2">
-            Sobha Parq City EMI Calculator
+            Sobha Parqcity EMI Calculator
           </h2>
           
         </div>
@@ -91,7 +91,7 @@ export default function EMICalculator() {
 
 <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <strong>Sobha Parq City EMI Calculator</strong> helps prospective buyers estimate their monthly home loan instalments based on the loan amount, repayment tenure and applicable interest rate. It can be used to explore different financing scenarios and understand how the borrowing amount and repayment period may affect monthly expenses.
+    The <strong>Sobha Parqcity EMI Calculator</strong> helps prospective buyers estimate their monthly home loan instalments based on the loan amount, repayment tenure and applicable interest rate. It can be used to explore different financing scenarios and understand how the borrowing amount and repayment period may affect monthly expenses.
   </p>
 
   <p>

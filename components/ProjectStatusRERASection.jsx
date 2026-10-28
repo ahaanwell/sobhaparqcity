@@ -13,7 +13,7 @@ export default function ProjectStatusRERASection() {
           id="projectstatusrera-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parq City Project Status, RERA and Possession
+          Sobha Parqcity Project Status, RERA and Possession
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -26,27 +26,27 @@ export default function ProjectStatusRERASection() {
               loading="lazy"
             />
   <p>
-    The <strong>Sobha Parq City Project Status, RERA and Possession</strong> details are important for homebuyers evaluating this proposed residential township by Sobha Group on Hennur Main Road, North Bangalore. The project is currently described as being in the pre-launch stage, with its RERA status listed as applied and possession planned for 2032. Buyers should monitor the project's registration and approval progress to understand when formal registration is granted and confirmed construction and possession timelines become available.
+    The <strong>Sobha Parqcity Project Status, RERA and Possession</strong> details are important for homebuyers evaluating this proposed residential township by Sobha Group on Hennur Main Road, North Bangalore. The project is currently described as being in the pre-launch stage, with its RERA status listed as applied and possession planned for 2031. Buyers should monitor the project's registration and approval progress to understand when formal registration is granted and confirmed construction and possession timelines become available.
   </p>
 
   <p>
     As the project progresses, prospective buyers should review the latest official information about RERA registration, statutory approvals, construction schedules and possession commitments. Verifying these details can help buyers make informed decisions before submitting an expression of interest or entering into a purchase agreement.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Current Project Status</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Current Project Status</h3>
 
   <p>
-    Sobha Parq City is currently listed as a <strong>pre-launch residential township</strong>. The proposed development covers approximately 50 acres and is planned to comprise 12 residential towers, around 1,300 units and apartments in multiple configurations.
+    Sobha Parqcity is currently listed as a <strong>pre-launch residential township</strong>. The proposed development covers approximately 50 acres and is planned to comprise 12 blocks, 24 wings, around 4,463 units and apartments in multiple configurations, with a floor structure of 3 basements + ground + 42 floors.
   </p>
 
   <p>
     As the project is at an early stage, some details may remain subject to approvals and final documentation. Buyers should confirm the latest development status, approved plans, availability of their preferred apartment configuration and any changes to the proposed project details through official documents before making a financial commitment.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City RERA Status</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity RERA Status</h3>
 
   <p>
-    The current project information lists the <strong>Sobha Parq City RERA status as Applied</strong>. This indicates that the registration process is reported to be underway, but an application should not be treated as confirmation that RERA registration has been granted.
+    The current project information lists the <strong>Sobha Parqcity RERA status as Applied</strong>. This indicates that the registration process is reported to be underway, but an application should not be treated as confirmation that RERA registration has been granted.
   </p>
 
   <p>
@@ -57,27 +57,27 @@ export default function ProjectStatusRERASection() {
     Until registration is confirmed, buyers should not treat the project as a registered development based solely on its stated application status.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Possession Date</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Possession Date</h3>
 
   <p>
-    The proposed possession timeline for Sobha Parq City is <strong>2032</strong>. This is the currently stated timeline in the supplied project details and should be treated as provisional until the applicable official documents confirm the completion and possession dates.
+    The proposed possession timeline for Sobha Parqcity is <strong>2031</strong>. This is the currently stated timeline in the supplied project details and should be treated as provisional until the applicable official documents confirm the completion and possession dates.
   </p>
 
   <p>
     The actual timeline may depend on statutory approvals, construction progress and the project's formal development schedule. Buyers should review the possession date stated in the registered project information and purchase agreement rather than relying exclusively on promotional material.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Construction Timeline</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Construction Timeline</h3>
 
   <p>
-    As Sobha Parq City is described as a pre-launch project, buyers should monitor its approval progress and the release of confirmed construction details. The proposed development includes 12 residential towers with configurations ranging from G+36 to G+42 floors. However, the available information does not establish the construction start date or the completion schedule for individual towers.
+    As Sobha Parqcity is described as a pre-launch project, buyers should monitor its approval progress and the release of confirmed construction details. The proposed development includes 24 wings with a floor structure of 3 basements + ground + 42 floors. However, the available information does not establish the construction start date or the completion schedule for individual wings.
   </p>
 
   <p>
     The developer's official updates and registered project disclosures should be used to confirm construction milestones, phase-wise development details and any revisions to the proposed timeline.
   </p>
 
-  <h3 className="text-xl font-bold">Important Checks Before Booking Sobha Parq City</h3>
+  <h3 className="text-xl font-bold">Important Checks Before Booking Sobha Parqcity</h3>
 
   <p>
     Before making a booking decision, prospective buyers should verify the following:
@@ -92,7 +92,7 @@ export default function ProjectStatusRERASection() {
     <li><strong>Latest project details:</strong> Confirm the selected apartment's availability, specifications and pricing through current official documents.</li>
   </ul>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Project Status, RERA and Possession Summary</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Project Status, RERA and Possession Summary</h3>
 
   <div className="overflow-x-auto">
     <table className="w-full border-collapse border border-gray-300">
@@ -105,7 +105,7 @@ export default function ProjectStatusRERASection() {
       <tbody>
         <tr>
           <td className="border border-gray-300 p-3">Project Name</td>
-          <td className="border border-gray-300 p-3">Sobha Parq City</td>
+          <td className="border border-gray-300 p-3">Sobha Parqcity</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Developer</td>
@@ -125,7 +125,7 @@ export default function ProjectStatusRERASection() {
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Proposed Possession</td>
-          <td className="border border-gray-300 p-3">2032</td>
+          <td className="border border-gray-300 p-3">2031</td>
         </tr>
         <tr>
           <td className="border border-gray-300 p-3">Project Location</td>

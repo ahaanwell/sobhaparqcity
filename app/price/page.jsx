@@ -3,32 +3,36 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import PricePage from "./PricePage";
 
 const PATH = "/price";
-const TITLE = "Sobha Parq City Price – From ₹1.2 Cr*, Cost Sheet & EMI";
+const TITLE = "Sobha Parqcity Price | From ₹1.1 Cr*, Hennur Bangalore";
 const DESCRIPTION =
-  "Sobha Parq City, Sarjapur: prices expected from ₹1.2 Cr*. See what the cost sheet includes (GST, stamp duty, parking) and how payments work.";
+  "Check proposed Sobha Parqcity prices on Hennur Main Road, Bangalore: 1 BHK from ₹1.1 Cr*, with 2, 3 and 4 BHK options. Review indicative rates and verify the latest cost sheet.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parq City starting price",
-    "Sobha Parq City price per sq ft",
-    "Sobha Parq City booking amount",
-    "Sobha Parq City EMI",
-    "Sobha Parq City launch offer",
-    "Sobha Sarjapur price 2026",
-    "flats under 1.5 crore Sarjapur Road",
+    "Sobha Parqcity starting price",
+    "Sobha Parqcity price per sq ft",
+    "Sobha Parqcity booking amount",
+    "Sobha Parqcity EMI",
+    "Sobha Parqcity launch offer",
+    "Sobha Parqcity 2 BHK price",
+    "Sobha Parqcity 3 BHK price",
+    "Sobha Parqcity 4 BHK price",
+    "Sobha Parqcity price Hennur Bangalore",
+    "Hennur Main Road apartment prices",
   ],
-  images: [{ ...IMAGES.costSheet, alt: "Sample cost sheet for Sobha Parq City, Sarjapur Road" }],
+  images: [{ ...IMAGES.costSheet, alt: "Sobha Parqcity indicative price and cost sheet, Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [
-  ["What is the starting price of Sobha Parq City?", "Prices are expected to start at ₹1.2 Cr* (base price). Ask our team for the latest official price sheet."],
-  ["What is the price per sq ft at Sobha Parq City?", "The developer has not yet published a per-sq-ft rate or unit sizes. Ask for the official cost sheet before comparing projects."],
-  ["What extra charges are added to the base price?", "Expect GST, stamp duty and registration, parking, floor-rise (if any), maintenance deposit and other charges listed in the official cost sheet."],
-  ["What is the booking amount and payment plan?", "The booking amount and payment schedule have not been announced yet. They are usually construction-linked; confirm the stages in writing before paying."],
-  ["When will Sobha Parq City be ready?", "Handover is proposed for December 2032, so payments are likely to be spread over several years."],
+  ["What is the starting price of Sobha Parqcity?", "The supplied indicative starting price is ₹1.1 crore for a 1 BHK apartment of 750 sq. ft. Confirm the current price, unit availability and applicable charges with the developer."],
+  ["What are the proposed prices for other Sobha Parqcity apartments?", "The supplied starting prices are ₹2.38 crore for 2 BHK, ₹2.97 crore for 3 BHK and ₹4.40 crore for 4 BHK apartments. These figures are indicative and should be confirmed using a current official cost sheet."],
+  ["What apartment sizes are listed for Sobha Parqcity?", "The supplied sizes range from 750 sq. ft. for 1 BHK to 2,600 sq. ft. for 4 BHK. Verify the approved floor plans and area definitions for the specific apartment."],
+  ["What additional charges may apply to the base price?", "The final cost may include applicable taxes, stamp duty, registration, parking, floor-rise charges, maintenance deposits and other items. Ask for an itemised, current cost sheet."],
+  ["What is the booking amount and payment schedule?", "The latest booking amount and payment schedule should be confirmed directly with the developer. Review all payment milestones and terms in writing before paying."],
+  ["When is possession planned for Sobha Parqcity?", "Possession is currently stated as planned for 2031. Verify the binding completion and possession dates in the project's official documents and agreement for sale."],
 ];
 
 const schema = pageSchema({ path: PATH, name: "Price", title: TITLE, description: DESCRIPTION, image: IMAGES.costSheet.url, faqs: FAQS });

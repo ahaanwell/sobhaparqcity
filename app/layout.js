@@ -23,7 +23,7 @@ export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
     default: HOME_TITLE,
-    template: "%s | Sobha Parq City",
+    template: "%s | Sobha Parqcity",
   },
   description: HOME_DESCRIPTION,
   applicationName: SITE_NAME,
@@ -63,7 +63,7 @@ export const metadata = {
   publisher: SITE_NAME,
   category: "Real Estate",
   verification: {
-    google: "BE4Z_6lWwOJKMof74DD9NVpuFms5QUFNhHxLZXK0fMc",
+    google: "jfQkn0fChTPcvsfH3VQRtpAmuU6W3vqQcEBTTuF0NbM",
   },
 };
 

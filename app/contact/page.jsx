@@ -2,22 +2,22 @@ import { JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import ContactPage from "./ContactPage";
 
 const PATH = "/contact";
-const TITLE = "Contact Sobha Parq City | Price, Brochure & Site Visit";
+const TITLE = "Contact Sobha Parqcity | Price, Brochure & Site Visit";
 const DESCRIPTION =
-  "Contact us about Sobha Parq City on Hennur Main Road, North Bangalore. Call or WhatsApp +91 83174 52005 for current prices, floor plans, the brochure or a site visit.";
+  "Contact us about Sobha Parqcity on Hennur Main Road, North Bangalore. Call or WhatsApp +91 83174 52005 for current prices, floor plans, the brochure or a site visit.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parq City contact",
-    "Sobha Parq City contact number",
-    "Sobha Parq City site visit",
-    "Sobha Parq City enquiry",
-    "Sobha Parq City brochure",
-    "Sobha Parq City Hennur Bangalore",
-    "Sobha Parq City price and brochure enquiry",
+    "Sobha Parqcity contact",
+    "Sobha Parqcity contact number",
+    "Sobha Parqcity site visit",
+    "Sobha Parqcity enquiry",
+    "Sobha Parqcity brochure",
+    "Sobha Parqcity Hennur Bangalore",
+    "Sobha Parqcity price and brochure enquiry",
   ],
 });
 

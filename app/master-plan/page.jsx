@@ -3,32 +3,36 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import MasterPlanPage from "./MasterPlanPage";
 
 const PATH = "/master-plan";
-const TITLE = "Sobha Parq City Site Layout – 25-Acre Master Plan Explained";
+const TITLE = "Sobha Parqcity Master Plan | 50-Acre Hennur Township";
 const DESCRIPTION =
-  "How the ~25-acre Sobha Parq City site in Sarjapur may be laid out: towers, roads, open areas and clubhouse for ~1,400 homes, and what to check.";
+  "Explore the proposed Sobha Parqcity master plan for its Hennur Main Road township: approximately 50 acres, 12 blocks, 24 wings, 4,463 apartments and a floor structure of 3 basements + ground + 42 floors. Verify the final approved layout with the developer.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parq City site layout",
-    "Sobha Parq City tower plan",
-    "Sobha Parq City number of towers",
-    "Sobha Parq City acres",
-    "Sobha Parq City open area percentage",
-    "Sobha Parq City clubhouse location",
-    "Sobha Sarjapur 25 acre project",
-    "large township Sarjapur Road",
+    "Sobha Parqcity site layout",
+    "Sobha Parqcity tower plan",
+    "Sobha Parqcity 24 wings",
+    "Sobha Parqcity 12 blocks",
+    "Sobha Parqcity acres",
+    "Sobha Parqcity 50 acre master plan",
+    "Sobha Parqcity Hennur master plan",
+    "Sobha Parqcity floor structure",
+    "Sobha Parqcity 4463 apartments",
+    "Hennur Main Road township layout",
   ],
-  images: [{ ...IMAGES.masterPlan, alt: "Site layout of the 25-acre Sobha Parq City project, Sarjapur Road" }],
+  images: [{ ...IMAGES.masterPlan, alt: "Proposed master plan of Sobha Parqcity on Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [
-  ["How many acres is Sobha Parq City?", "The project is planned on approximately 25 acres in Sarjapur, Bangalore."],
-  ["How many towers and homes are in Sobha Parq City?", "Around 1,400 apartments (tentative) are planned. The number of towers and floors will be confirmed in the approved master plan."],
-  ["How much open space does Sobha Parq City have?", "The share of open and landscaped area has not been published yet. Check it in the approved layout and RERA documents."],
-  ["What should I look for in the Sobha Parq City master plan?", "Look at tower positions and spacing, entry and exit gates, internal roads, the clubhouse location and how far your tower is from busy amenity zones."],
+  ["Where is the Sobha Parqcity master plan for?", "It relates to the proposed Sobha Parqcity township on Hennur Main Road in North Bangalore. Confirm the project boundary and address using current official documents."],
+  ["How large is the proposed Sobha Parqcity development?", "The supplied project information describes a site of approximately 50 acres. Verify the final area and land use in the approved master plan."],
+  ["How many blocks, wings and apartments are planned?", "The project is described as having 12 blocks, 24 wings and around 4,463 apartments. These are proposed figures and should be confirmed against approved project disclosures."],
+  ["What floor structure is planned at Sobha Parqcity?", "The supplied floor structure is 3 basements + ground + 42 floors. Check the latest sanctioned plans for confirmation."],
+  ["Is the Sobha Parqcity master plan final?", "A verified final approved master plan has not been confirmed in the project information available here. Request the latest plan and check it against applicable approvals before relying on it."],
+  ["What should buyers review in a master plan?", "Review tower locations and spacing, project access, internal roads, pedestrian routes, open areas, amenity locations and the relationship of the selected apartment to shared spaces. Confirm these details in the approved plan."],
 ];
 
 const schema = pageSchema({ path: PATH, name: "Master Plan", title: TITLE, description: DESCRIPTION, image: IMAGES.masterPlan.url, faqs: FAQS });

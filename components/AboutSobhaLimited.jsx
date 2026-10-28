@@ -21,7 +21,7 @@ export default function AboutSObhaLimited() {
         <img width={1000} height={664}
               className="w-full lg:w-1/2 m-auto mb-6"
               src="/images/sobhalimited.webp"
-              alt="SOBHA Limited, developer of Sobha Parq City Sarjapur"
+              alt="SOBHA Limited, developer of Sobha Parqcity Sarjapur"
               loading="lazy"
             />
         <div className="space-y-6 text-gray-800">
@@ -54,7 +54,7 @@ export default function AboutSObhaLimited() {
   </p>
 
   <p>
-    <IntLink href="/"><strong>Sobha Parq City</strong></IntLink> is proposed in <ExtLink href={`${WIKI}Sarjapur`}><strong>Sarjapur</strong></ExtLink>, one of <strong>Southeast Bangalore's</strong> prominent residential and employment-linked corridors.
+    <IntLink href="/"><strong>Sobha Parqcity</strong></IntLink> is proposed in <ExtLink href={`${WIKI}Sarjapur`}><strong>Sarjapur</strong></ExtLink>, one of <strong>Southeast Bangalore's</strong> prominent residential and employment-linked corridors.
   </p>
 
   <h3 className="text-xl font-bold">Focus on Quality and Construction</h3>
@@ -87,14 +87,14 @@ export default function AboutSObhaLimited() {
     Its presence across different markets reflects an established real estate development platform with experience in delivering projects for different segments and locations. Project specifications, timelines, configurations and amenities, however, vary according to the individual development.
   </p>
 
-  <h3 className="text-xl font-bold">SOBHA Parq City and the Developer</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity and the Developer</h3>
 
   <p>
-    <strong>Sobha Parq City</strong> is proposed as a premium residential development in <IntLink href="/location"><strong>Sarjapur, Bangalore</strong></IntLink>, with <IntLink href="/master-plan"><strong>approximately 25 acres</strong></IntLink> of planned development and <IntLink href="/floor-plan"><strong>2, 3 and 4 BHK apartment</strong></IntLink> configurations.
+    <strong>Sobha Parqcity</strong> is proposed as a premium residential development in <IntLink href="/location"><strong>Sarjapur, Bangalore</strong></IntLink>, with <IntLink href="/master-plan"><strong>approximately 25 acres</strong></IntLink> of planned development and <IntLink href="/floor-plan"><strong>2, 3 and 4 BHK apartment</strong></IntLink> configurations.
   </p>
 
   <p>
-    The project's proposed scale and location place it within the broader residential development activity of Southeast Bangalore. However, buyers should evaluate Sobha Parq City based on its own approved plans, specifications, <ExtLink href="https://rera.karnataka.gov.in/">Karnataka RERA</ExtLink> information, agreements and other official project documentation as these details become available.
+    The project's proposed scale and location place it within the broader residential development activity of Southeast Bangalore. However, buyers should evaluate Sobha Parqcity based on its own approved plans, specifications, <ExtLink href="https://rera.karnataka.gov.in/">Karnataka RERA</ExtLink> information, agreements and other official project documentation as these details become available.
   </p>
 
   <h3 className="text-xl font-bold">Why the Developer Matters to Homebuyers</h3>
@@ -104,7 +104,7 @@ export default function AboutSObhaLimited() {
   </p>
 
   <p>
-    For Sobha Parq City, prospective buyers should consider the developer's overall experience alongside project-specific factors such as location, apartment configuration, <IntLink href="/price">pricing</IntLink>, approvals, construction progress, specifications, amenities and the registered possession timeline.
+    For Sobha Parqcity, prospective buyers should consider the developer's overall experience alongside project-specific factors such as location, apartment configuration, <IntLink href="/price">pricing</IntLink>, approvals, construction progress, specifications, amenities and the registered possession timeline.
   </p>
 
   <h3 className="text-xl font-bold">SOBHA Limited – Key Facts</h3>
@@ -143,11 +143,11 @@ export default function AboutSObhaLimited() {
           <td className="border border-gray-300 px-4 py-3"><strong>Bangalore</strong></td>
         </tr>
         <tr>
-          <td className="border border-gray-300 px-4 py-3">Sobha Parq City Location</td>
+          <td className="border border-gray-300 px-4 py-3">Sobha Parqcity Location</td>
           <td className="border border-gray-300 px-4 py-3"><IntLink href="/location"><strong>Sarjapur, Bangalore</strong></IntLink></td>
         </tr>
         <tr>
-          <td className="border border-gray-300 px-4 py-3">Sobha Parq City Status</td>
+          <td className="border border-gray-300 px-4 py-3">Sobha Parqcity Status</td>
           <td className="border border-gray-300 px-4 py-3">Proposed / Launch-Stage Development</td>
         </tr>
       </tbody>
@@ -157,7 +157,7 @@ export default function AboutSObhaLimited() {
   <h3 className="text-xl font-bold">A Developer with Experience in Residential Real Estate</h3>
 
   <p>
-    SOBHA Limited's long-standing presence in the Indian real estate sector and its residential development experience provide important background for understanding the developer behind <strong>Sobha Parq City</strong>.
+    SOBHA Limited's long-standing presence in the Indian real estate sector and its residential development experience provide important background for understanding the developer behind <strong>Sobha Parqcity</strong>.
   </p>
 
   <p>

@@ -22,11 +22,11 @@ export default function MasterPlanSection() {
         
 <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <a href="https://www.sobhaparqcity.in/master-plan"><strong>Sobha Parq City Master Plan</strong></a> outlines the proposed development of a residential township spread across approximately <b>50 acres</b> on <b>Hennur Main Road, North Bangalore</b>. The project is planned to comprise <b>12 high-rise residential towers</b> and approximately <b>1,300 residential units</b>, with tower configurations ranging from <b>G+36 to G+42 floors</b>. The master plan is expected to present the overall arrangement of residential buildings and other planned components within the project site.
+    The <a href="https://www.sobhaparqcity.in/master-plan"><strong>Sobha Parqcity Master Plan</strong></a> outlines the proposed development of a residential township spread across approximately <b>50 acres</b> on <b>Hennur Main Road, North Bangalore</b>. The project is planned to comprise <b>12 blocks, 24 wings</b> and approximately <b>4,463 residential units</b>, with a floor structure of <b>3 basements + ground + 42 floors</b>. The master plan is expected to present the overall arrangement of residential buildings and other planned components within the project site.
   </p>
 
   <p>
-    For prospective homebuyers, the master plan offers a broader perspective of the township beyond individual apartment layouts. Once the official plan is available, buyers can review the positioning of residential towers, internal access routes, common areas and the distribution of planned facilities. The final approved master plan should be consulted to understand the actual site arrangement and proposed land use at Sobha Parq City.
+    For prospective homebuyers, the master plan offers a broader perspective of the township beyond individual apartment layouts. Once the official plan is available, buyers can review the positioning of residential towers, internal access routes, common areas and the distribution of planned facilities. The final approved master plan should be consulted to understand the actual site arrangement and proposed land use at Sobha Parqcity.
   </p>
 </div>
 
@@ -37,7 +37,7 @@ export default function MasterPlanSection() {
           >
             <img
               src="./images/master-plan.webp"
-              alt="Sobha Parq City master plan, Sarjapur Bangalore"
+              alt="Sobha Parqcity master plan, Sarjapur Bangalore"
               className="w-full h-full object-cover"
               loading="lazy"
             />
@@ -51,40 +51,40 @@ export default function MasterPlanSection() {
         </div>
         
 <div className="space-y-6 text-gray-800 mt-6">
-  <h3 className="text-xl font-bold">Sobha Parq City Master Plan Layout</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Master Plan Layout</h3>
 
   <p>
-    The proposed Sobha Parq City layout brings together multiple high-rise residential towers within a single township. With 12 towers planned across approximately 50 acres, the positioning of buildings and the arrangement of internal circulation routes will be important aspects of the overall site design.
+    The proposed Sobha Parqcity layout brings together 12 blocks and 24 residential wings within a single township planned across approximately 50 acres. The positioning of buildings and the arrangement of internal circulation routes will be important aspects of the overall site design.
   </p>
 
   <p>
     The official master plan should provide a clearer view of the relationship between residential blocks, entry and exit points, internal roads, pedestrian pathways and designated common areas. These details can help buyers understand how different sections of the township are connected and how residents may move around the development.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Tower Planning</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Wing Planning</h3>
 
   <p>
-    Sobha Parq City is proposed to feature 12 residential towers with configurations ranging from G+36 to G+42 floors. The master plan and accompanying tower layouts should help buyers identify the position of individual buildings and understand how the towers are arranged across the project site.
+    Sobha Parqcity is proposed to feature 12 blocks and 24 residential wings with a floor structure of 3 basements + ground + 42 floors. The master plan and accompanying building layouts should help buyers identify the position of individual wings and understand their arrangement across the project site.
   </p>
 
   <p>
     When the official drawings become available, prospective purchasers should review tower locations, building orientation, access points and proximity to shared facilities. These details may help buyers compare available apartments and assess the location of a preferred unit within the overall development.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Open Spaces and Common Areas</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Open Spaces and Common Areas</h3>
 
   <p>
-    Open spaces and common areas are important elements to examine when evaluating a residential township. For Sobha Parq City, the final approved master plan will be needed to establish the allocation of land for landscaped areas, pedestrian movement, recreational facilities and other shared uses.
+    Open spaces and common areas are important elements to examine when evaluating a residential township. For Sobha Parqcity, the final approved master plan will be needed to establish the allocation of land for landscaped areas, pedestrian movement, recreational facilities and other shared uses.
   </p>
 
   <p>
     Buyers should examine the actual distribution and dimensions of these spaces rather than assume that particular amenities or landscaping features are included. The developer's official master plan and approved project documents will provide a reliable basis for understanding the proposed common areas and their arrangement within the township.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Master Plan Benefits for Homebuyers</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Master Plan Benefits for Homebuyers</h3>
 
   <p>
-    Reviewing the Sobha Parq City master plan can help prospective buyers understand the overall development before choosing an apartment. While an individual floor plan focuses on the internal layout of a home, the master plan presents a wider view of the township and its proposed site organisation.
+    Reviewing the Sobha Parqcity master plan can help prospective buyers understand the overall development before choosing an apartment. While an individual floor plan focuses on the internal layout of a home, the master plan presents a wider view of the township and its proposed site organisation.
   </p>
 
   <p>The master plan can help buyers assess:</p>
@@ -101,10 +101,10 @@ export default function MasterPlanSection() {
     These details can support a more informed comparison of available apartments. Buyers should verify the relevant information using the latest official master plan, particularly while the project remains in the pre-launch stage.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Master Plan Status</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Master Plan Status</h3>
 
   <p>
-    Sobha Parq City is currently described as a pre-launch residential development. A verified master plan has not been included in the project information provided, so specific details about the positioning of amenities, landscaped areas, internal roads and other site features remain subject to confirmation.
+    Sobha Parqcity is currently described as a pre-launch residential development. A verified master plan has not been included in the project information provided, so specific details about the positioning of amenities, landscaped areas, internal roads and other site features remain subject to confirmation.
   </p>
 
   <p>

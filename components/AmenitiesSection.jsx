@@ -38,17 +38,17 @@ export default function AmenitiesSection() {
         
 <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <a href="https://www.sobhaparqcity.in/amenities"><strong>Sobha Parq City amenities</strong></a> section provides an overview of the lifestyle facilities prospective homebuyers should review for this proposed residential township by <b>Sobha Group</b>. Located on <b>Hennur Main Road, North Bangalore</b>, the development is planned across approximately 50 acres, with 12 residential towers and a range of apartment configurations. The final selection of amenities will help define the recreational, social and everyday living experience within the township.
+    The <a href="https://www.sobhaparqcity.in/amenities"><strong>Sobha Parqcity amenities</strong></a> section provides an overview of the lifestyle facilities prospective homebuyers should review for this proposed residential township by <b>Sobha Group</b>. Located on <b>Hennur Main Road, North Bangalore</b>, the development is planned across approximately 50 acres, with 12 blocks, 24 wings and a range of apartment configurations. The final selection of amenities will help define the recreational, social and everyday living experience within the township.
   </p>
 
   <p>
-    For homebuyers evaluating Sobha Parq City, amenities are an important consideration alongside apartment layouts, project specifications and the overall master plan. Facilities designed for recreation, fitness, relaxation and community interaction can contribute to a convenient residential environment. However, the specific amenities proposed for Sobha Parq City should be confirmed through the developer's official brochure and approved project documents before individual facilities are described as included.
+    For homebuyers evaluating Sobha Parqcity, amenities are an important consideration alongside apartment layouts, project specifications and the overall master plan. Facilities designed for recreation, fitness, relaxation and community interaction can contribute to a convenient residential environment. However, the specific amenities proposed for Sobha Parqcity should be confirmed through the developer's official brochure and approved project documents before individual facilities are described as included.
   </p>
 </div>
 
         <ul
           className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 lg:gap-4"
-          aria-label="Sobha Parq City amenities"
+          aria-label="Sobha Parqcity amenities"
         >
           {amenitiesData.map((item) => (
             <li
@@ -73,60 +73,60 @@ export default function AmenitiesSection() {
         </ul>
         
 <div className="space-y-6 text-gray-800 mt-6">
-  <h3 className="text-xl font-bold">Sobha Parq City Lifestyle Amenities</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Lifestyle Amenities</h3>
 
   <p>
-    Lifestyle amenities can provide residents with shared spaces to relax, spend time with family and interact with neighbours. At Sobha Parq City, the overall scale of the proposed township makes the planning of common areas and lifestyle facilities an important aspect for prospective homebuyers to examine.
+    Lifestyle amenities can provide residents with shared spaces to relax, spend time with family and interact with neighbours. At Sobha Parqcity, the overall scale of the proposed township makes the planning of common areas and lifestyle facilities an important aspect for prospective homebuyers to examine.
   </p>
 
   <p>
     The official amenities list should clarify which facilities are included, where they are located within the township and whether any are planned for specific development phases. Buyers should also review the applicable usage arrangements and maintenance provisions to understand how shared facilities will be managed after handover.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Sports and Fitness Amenities</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Sports and Fitness Amenities</h3>
 
   <p>
-    Sports and fitness facilities are important considerations for buyers who prefer opportunities for physical activity close to home. Once the official amenities plan for Sobha Parq City is available, prospective residents can review the confirmed fitness spaces, sports facilities and designated areas for indoor or outdoor activities.
+    Sports and fitness facilities are important considerations for buyers who prefer opportunities for physical activity close to home. Once the official amenities plan for Sobha Parqcity is available, prospective residents can review the confirmed fitness spaces, sports facilities and designated areas for indoor or outdoor activities.
   </p>
 
   <p>
     The types, number and specifications of these facilities have not been confirmed in the supplied project information. Buyers should consult the developer's official documentation for the final list rather than assume that a gym, swimming pool, sports court or particular fitness facility is included.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Family and Recreation Amenities</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Family and Recreation Amenities</h3>
 
   <p>
-    Recreational spaces can support family activities and offer residents opportunities to spend time outside their individual apartments. The final amenities plan for Sobha Parq City will help establish whether dedicated children's areas, indoor recreation spaces, gathering areas or other leisure facilities form part of the proposed development.
+    Recreational spaces can support family activities and offer residents opportunities to spend time outside their individual apartments. The final amenities plan for Sobha Parqcity will help establish whether dedicated children's areas, indoor recreation spaces, gathering areas or other leisure facilities form part of the proposed development.
   </p>
 
   <p>
     Families considering the project should examine the location, design and intended use of any confirmed recreational facilities. Details such as accessibility, age suitability and operating arrangements can help buyers determine whether the planned amenities meet their household's requirements.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Community Facilities</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Community Facilities</h3>
 
   <p>
-    Community facilities can provide shared spaces for social interaction, meetings and resident activities. In a large residential township such as Sobha Parq City, the placement and management of these areas may influence how residents use common spaces and participate in community life.
+    Community facilities can provide shared spaces for social interaction, meetings and resident activities. In a large residential township such as Sobha Parqcity, the placement and management of these areas may influence how residents use common spaces and participate in community life.
   </p>
 
   <p>
     The final project documents should be reviewed for details about any proposed multipurpose spaces, gathering areas or other shared facilities. Their availability, size and specifications should be confirmed before they are included in a definitive amenities list.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parq City Amenities Plan and Facilities</h3>
+  <h3 className="text-xl font-bold">Sobha Parqcity Amenities Plan and Facilities</h3>
 
   <p>
     The amenities plan is an important reference for understanding the proposed location of facilities and their relationship to the residential towers and common areas. Depending on the information provided in the official drawings, it may also clarify access routes, designated activity zones and the arrangement of shared spaces.
   </p>
 
   <p>
-    As Sobha Parq City is currently at the pre-launch stage, the confirmed amenities list and detailed specifications should be obtained from the developer. Buyers should verify which facilities form part of the approved development, whether they are planned for a particular phase and what conditions apply to their use.
+    As Sobha Parqcity is currently at the pre-launch stage, the confirmed amenities list and detailed specifications should be obtained from the developer. Buyers should verify which facilities form part of the approved development, whether they are planned for a particular phase and what conditions apply to their use.
   </p>
 
-  <h3 className="text-xl font-bold">Why Review Sobha Parq City Amenities Before Buying?</h3>
+  <h3 className="text-xl font-bold">Why Review Sobha Parqcity Amenities Before Buying?</h3>
 
   <p>
-    Reviewing the amenities can help buyers compare Sobha Parq City with other residential developments according to their practical lifestyle requirements. The usefulness of a facility depends not only on its type but also on its design, accessibility, maintenance arrangements and suitability for its intended users.
+    Reviewing the amenities can help buyers compare Sobha Parqcity with other residential developments according to their practical lifestyle requirements. The usefulness of a facility depends not only on its type but also on its design, accessibility, maintenance arrangements and suitability for its intended users.
   </p>
 
   <p>Before making a purchase decision, prospective buyers should:</p>

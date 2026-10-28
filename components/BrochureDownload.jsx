@@ -44,7 +44,7 @@ export default function BrochureDownload({
       email,
       number,
       company_email: "info@searchmyspace.in",
-      project_name: "Sobha Parq City",
+      project_name: "Sobha Parqcity",
     };
 
     try {
