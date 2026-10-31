@@ -3,36 +3,54 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import PricePage from "./PricePage";
 
 const PATH = "/price";
-const TITLE = "Sobha Parqcity Price | From ₹1.1 Cr*, Hennur Bangalore";
+const TITLE = "Sobha Parqcity Price List | 1, 2, 3 & 4 BHK Prices";
 const DESCRIPTION =
-  "Check proposed Sobha Parqcity prices on Hennur Main Road, Bangalore: 1 BHK from ₹1.1 Cr*, with 2, 3 and 4 BHK options. Review indicative rates and verify the latest cost sheet.";
+  "Explore the Sobha Parqcity price list on Hennur Main Road, North Bangalore, with indicative prices and sizes for 1, 2, 3 and 4 BHK apartments, approximate rates per sq. ft. and pricing considerations. Confirm current prices with the developer.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parqcity starting price",
-    "Sobha Parqcity price per sq ft",
-    "Sobha Parqcity booking amount",
-    "Sobha Parqcity EMI",
-    "Sobha Parqcity launch offer",
+    "Sobha Parqcity price list",
+    "Sobha Parqcity apartment price",
+    "Sobha Parqcity price per square foot",
+    "Sobha Parqcity 1 BHK price",
     "Sobha Parqcity 2 BHK price",
     "Sobha Parqcity 3 BHK price",
     "Sobha Parqcity 4 BHK price",
-    "Sobha Parqcity price Hennur Bangalore",
-    "Hennur Main Road apartment prices",
+    "Sobha Parqcity apartment sizes",
+    "Sobha Parqcity price Hennur Main Road",
+    "North Bangalore apartment prices",
   ],
   images: [{ ...IMAGES.costSheet, alt: "Sobha Parqcity indicative price and cost sheet, Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [
-  ["What is the starting price of Sobha Parqcity?", "The supplied indicative starting price is ₹1.1 crore for a 1 BHK apartment of 750 sq. ft. Confirm the current price, unit availability and applicable charges with the developer."],
-  ["What are the proposed prices for other Sobha Parqcity apartments?", "The supplied starting prices are ₹2.38 crore for 2 BHK, ₹2.97 crore for 3 BHK and ₹4.40 crore for 4 BHK apartments. These figures are indicative and should be confirmed using a current official cost sheet."],
-  ["What apartment sizes are listed for Sobha Parqcity?", "The supplied sizes range from 750 sq. ft. for 1 BHK to 2,600 sq. ft. for 4 BHK. Verify the approved floor plans and area definitions for the specific apartment."],
-  ["What additional charges may apply to the base price?", "The final cost may include applicable taxes, stamp duty, registration, parking, floor-rise charges, maintenance deposits and other items. Ask for an itemised, current cost sheet."],
-  ["What is the booking amount and payment schedule?", "The latest booking amount and payment schedule should be confirmed directly with the developer. Review all payment milestones and terms in writing before paying."],
-  ["When is possession planned for Sobha Parqcity?", "Possession is currently stated as planned for 2031. Verify the binding completion and possession dates in the project's official documents and agreement for sale."],
+  [
+    "What is the starting price of Sobha Parqcity?",
+    "The indicative starting price is ₹1.1 Cr onwards for the listed 1 BHK configuration. Prices for larger configurations start at ₹2.38 Cr for 2 BHK, ₹2.97 Cr for 3 BHK, and ₹4.40 Cr for 4 BHK.",
+  ],
+  [
+    "What is the price of a 2 BHK apartment in Sobha Parqcity?",
+    "The listed 2 BHK apartment has an area of 1,400 sq. ft., with an indicative starting price of ₹2.38 Cr onwards.",
+  ],
+  [
+    "What is the price of a 3 BHK apartment?",
+    "The 3 BHK configuration ranges from 1,750 to 1,950 sq. ft., with an indicative starting price of ₹2.97 Cr onwards.",
+  ],
+  [
+    "What is the price of a 4 BHK apartment?",
+    "The listed 4 BHK apartment measures approximately 2,600 sq. ft., with an indicative starting price of ₹4.40 Cr onwards.",
+  ],
+  [
+    "Does the Sobha Parqcity Price include registration and taxes?",
+    "The supplied starting prices do not confirm whether registration, stamp duty, taxes, or other additional charges are included. Buyers should obtain an updated cost sheet from the developer.",
+  ],
+  [
+    "How can buyers confirm the latest apartment prices?",
+    "Prospective buyers should contact the developer or authorised sales representative for the latest availability, apartment-specific quotation, payment schedule, and complete cost breakdown.",
+  ],
 ];
 
 const schema = pageSchema({ path: PATH, name: "Price", title: TITLE, description: DESCRIPTION, image: IMAGES.costSheet.url, faqs: FAQS });

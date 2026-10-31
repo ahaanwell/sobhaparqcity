@@ -4,76 +4,68 @@ import { ExtLink, IntLink } from "@/components/SeoLinks";
 
 const projects = [
   {
-    name: "Sobha One World",
-    location: "Off Hoskote, East Bangalore, opposite Hoskote Toll Plaza",
-    type: "Luxury themed apartments",
+    name: "SOBHA OneWorld",
+    location: "Greater Whitefield, along Old Madras Road, Bengaluru",
+    type: "Integrated residential, retail, commercial and cultural community",
+    sourceUrl: "https://sobhaoneworlds.in",
     details: [
-      ["Land area", "350 acres (as supplied; verify against official project documents)"],
-      ["Apartments", "3,484 Vaastu-aligned units"],
-      ["Configurations", "1, 2, 3 and 4 BHK"],
-      ["Tower structure", "3 basements + ground + 46 floors"],
-      ["Connectivity", "Kadugudi-Whitefield Metro Station; confirm route and travel time"],
-      ["Starting price", "₹1.09 crore onwards (indicative; confirm current price)"],
-      ["Status and possession", "Pre-launch; possession stated as 2031 onwards (tentative)"],
-      [
-        "RERA",
-        "The supplied information both describes approval as awaited and provides registration number PRM/KA/RERA/1250/304/PR/080526/008634. Verify the number and current status directly with Karnataka RERA.",
-      ],
+      ["Location", "Greater Whitefield, Old Madras Road"],
+      ["Home types", "1-bed residences and 2, 3 and 4-bed luxury residences"],
+      ["Listed area range", "1,063–2,415 sq. ft."],
+      ["Project scale", "48 acres and 15.32 guntas; 3,484 residences"],
+      ["Completion", "Phase-wise dates from July 2032 to September 2033, as published by SOBHA"],
     ],
   },
   {
-    name: "Sobha Neopolis",
-    location: "Panathur Road, off Marathahalli-ORR, Bengaluru 560087",
-    type: "Luxury residential apartments with Greek-inspired architecture",
+    name: "SOBHA Altair",
+    location: "Hadosiddapura, off Sarjapur Main Road, Bengaluru",
+    type: "Luxury 3 and 4-bedroom residences",
+    sourceUrl: "#",
     details: [
-      ["Land area", "25.86 acres"],
-      ["Apartments", "1,875"],
-      ["Towers and structure", "19 high-rise towers; 2 basements + ground + 18 floors"],
-      ["Open space", "Approximately 78%"],
-      ["Starting price", "₹95 lakhs (indicative; confirm current price)"],
-      ["Status and possession", "New launch; possession stated as December 2027"],
-      ["RERA", "PRM/KA/RERA/1251/446/PR/200923/006269 (verify current project details)"],
+      ["Location", "Hadosiddapura, off Sarjapur Main Road"],
+      ["Home types", "3 and 4-bedroom residences"],
+      ["Listed area range", "1,894–2,570 sq. ft."],
+      ["Project scale", "3.308 acres; 207 residences"],
+      ["Completion", "May 2031, as published by SOBHA"],
     ],
   },
   {
-    name: "Sobha Liora",
-    location: "Immadihalli, Whitefield, Bangalore",
-    type: "Luxury residential apartments",
+    name: "SOBHA Townpark",
+    location: "Near Electronic City, Hosur Road, Bengaluru",
+    type: "New York-themed residential community",
+    sourceUrl: "#",
     details: [
-      ["Land area", "7 acres"],
-      ["Apartments", "Approximately 420 units"],
-      ["Configurations", "3, 3.5 and 4 BHK"],
-      ["Towers and structure", "4 towers; 2 basements + ground + 17 floors"],
-      ["Open space", "80%"],
-      ["Starting price", "On request"],
-      ["Status and possession", "Pre-launch; possession stated as December 2030"],
-      ["Approvals", "RERA and BBMP approval stated in supplied information; verify official records"],
+      ["Location", "Near Electronic City, on Hosur Road"],
+      ["Home types", "2, 3 and 4-bedroom residences"],
+      ["Listed area range", "1,240–2,846 sq. ft."],
+      ["Community", "SOBHA Madison Heights and SOBHA Hamptons"],
+      ["Completion", "Phase and wing dates published from December 2030 to June 2033"],
     ],
   },
   {
-    name: "Sobha Victoria Park",
-    location: "Off Hennur Road, Bangalore",
-    type: "Residential development",
+    name: "SOBHA Neopolis",
+    location: "Panathur, off Marathahalli–ORR, Bengaluru",
+    type: "Greek-themed residential township",
+    sourceUrl: "#",
     details: [
-      ["Land area", "6.03 acres"],
-      ["Apartments", "300"],
-      ["Configurations and sizes", "2 and 3 BHK; 865–1,562 sq. ft."],
-      ["Towers and floors", "5 towers; 9 floors each"],
-      ["Starting price", "₹1.29 crore onwards (indicative; confirm current price)"],
-      ["Status and possession", "Under construction; possession stated as December 2027"],
-      ["RERA", "PRM/KA/RERA/1251/309/PR/310322/004800 (verify current project details)"],
+      ["Location", "Panathur, off Marathahalli–ORR"],
+      ["Home types", "3 and 4-bedroom residences"],
+      ["Listed area range", "1,611–2,481 sq. ft."],
+      ["Project scale", "25 acres and 35.9 guntas; 1,875 residences across 19 towers"],
+      ["Completion", "Phase-wise dates published from December 2028 to December 2031"],
     ],
   },
   {
-    name: "Sobha Sacred Grove by the Lake",
-    location: "Chikkathirupathi, Malur",
-    type: "Residential plots",
+    name: "SOBHA Ayana",
+    location: "Panathur Main Road, Balagere, East Bengaluru",
+    type: "Modern tropical 3-bedroom residences",
+    sourceUrl: "#",
     details: [
-      ["Developer", "Sobha Limited"],
-      ["Land area and plots", "26 acres; 388 plots"],
-      ["Plot sizes", "1,200, 1,500 and 2,400 sq. ft."],
-      ["Starting price", "₹83.98 lakhs (indicative; confirm current price)"],
-      ["RERA", "PRM/KA/RERA/1265/347/PR/020226/008445 (verify current project details)"],
+      ["Location", "Panathur Main Road, Balagere, East Bengaluru"],
+      ["Home types", "3-bedroom residences"],
+      ["Listed area range", "1,553–1,789 sq. ft."],
+      ["Project scale", "6.28 acres; 683 apartments"],
+      ["Completion", "December 2031, as published by SOBHA"],
     ],
   },
 ];
@@ -82,7 +74,7 @@ function ProjectCard({ project, index }) {
   return (
     <article className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm">
       <p className="text-sm font-semibold uppercase tracking-wide text-primary">
-        Sobha project {index + 1}
+        Featured project {index + 1}
       </p>
       <h3 className="mt-1 text-xl font-bold text-gray-900">{project.name}</h3>
       <p className="mt-2 text-gray-700">{project.type}</p>
@@ -97,6 +89,9 @@ function ProjectCard({ project, index }) {
           </div>
         ))}
       </dl>
+      <p className="mt-4 text-sm">
+        <ExtLink href={project.sourceUrl}>View project details on the SOBHA website</ExtLink>
+      </p>
     </article>
   );
 }
@@ -107,14 +102,48 @@ function BangalorePage({ faqs = [] }) {
       <PageHero title="Bangalore" />
       <div className="mx-auto max-w-5xl py-10">
         <h1 className="text-center text-2xl font-bold text-gray-800 md:text-3xl">
-          Five Sobha Projects to Compare in Bangalore
+          Bengaluru City Guide and 5 SOBHA Projects to Compare
         </h1>
         <p className="mt-6 leading-7 text-gray-800">
-          Bangalore offers varied home choices, from high-rise apartments in established employment corridors to plotted communities outside the city centre. This guide brings together five Sobha developments using the project details supplied for this website. Compare location, housing type, scale, price and stated timelines against your own needs, and verify current information with official project documents before making a decision.
+          Bengaluru (also widely called Bangalore) is Karnataka’s capital and a major centre for technology, business, education and research. This guide starts with the city’s neighbourhoods, employment corridors, transport and day-to-day considerations, then compares five SOBHA residential projects currently featured for Bengaluru. The projects are a shortlist for research, not a ranking or investment recommendation.
         </p>
 
+        <img width={1000} height={664}
+              className="w-full lg:w-1/2 m-auto mt-6"
+              src="/images/bangalore.webp"
+              alt="Bengaluru city landmark and gardens"
+              loading="lazy"
+            />
+
+        <section className="mt-10 space-y-5 leading-7 text-gray-800" aria-labelledby="about-bengaluru-heading">
+          <h2 id="about-bengaluru-heading" className="text-xl font-semibold text-gray-900 md:text-2xl">
+            About Bengaluru: city, economy and everyday life
+          </h2>
+          <p>
+            Bengaluru is the capital of Karnataka, located on the state’s southeastern plateau. The city is internationally associated with India’s information-technology sector, but its economy also includes start-ups, aerospace, biotechnology, manufacturing, research, professional services and higher education. These varied employment bases draw students and working professionals from across India and support demand for homes in different parts of the metropolitan area.
+          </p>
+          <p>
+            The city is a collection of distinct neighbourhoods rather than one compact business district. Central Bengaluru combines established commercial areas, civic institutions and historic destinations. The east has major technology and residential clusters around Whitefield, Marathahalli, Panathur and Sarjapur Road; the north includes Hebbal, Yelahanka and airport-side growth areas; the south includes Jayanagar, JP Nagar, Bannerghatta Road and Electronic City. These are broad geographic descriptions: actual commute times depend on the precise address, route and traffic.
+          </p>
+          <p>
+            Bengaluru’s climate is shaped by its elevation on the Deccan Plateau, with a monsoon cycle and seasonal changes in rainfall. Parks, lakes and tree-lined areas contribute to the city’s urban character, while rapid growth also makes water availability, drainage, heat, construction and traffic important local planning considerations. Conditions vary between neighbourhoods, so a city-wide description should not replace a site visit.
+          </p>
+          <h3 className="text-lg font-semibold text-gray-900">Transport and connectivity</h3>
+          <p>
+            <ExtLink href="https://english.bmrc.co.in/">Namma Metro</ExtLink>, BMTC buses, suburban and intercity rail services, and the road network together serve different travel needs. Major routes include Outer Ring Road, Old Madras Road, Hosur Road, Sarjapur Road and the city’s radial roads. <ExtLink href="https://www.bengaluruairport.com/">Kempegowda International Airport</ExtLink> is north of the urban core and is reached by road; journey time changes with traffic and the starting point. Metro extensions and other infrastructure projects may improve future connections, but planned routes or stations should not be treated as operational until confirmed by the relevant authority.
+          </p>
+          <h3 className="text-lg font-semibold text-gray-900">Education, healthcare and recreation</h3>
+          <p>
+            The metropolitan area has universities, schools, hospitals, clinics, shopping districts, cultural venues, sports facilities and public parks. Access is highly neighbourhood-specific: a school or hospital described as “near Bengaluru” may still require a substantial drive from a particular home. Families should map their regular destinations and check the route at the times they expect to travel.
+          </p>
+          <h3 className="text-lg font-semibold text-gray-900">Choosing where to live in Bengaluru</h3>
+          <p>
+            Start with the daily commute, not a city-wide label such as “North” or “East Bengaluru.” Compare the exact project entrance with work, school, healthcare and transit; visit at peak and off-peak times; and ask about water sources, power backup, maintenance costs, construction status and access roads. For a home purchase, independently verify the project’s Karnataka RERA registration, sanctioned plans, title and written sale terms. The <ExtLink href="https://bengaluruurban.nic.in/en/">Bengaluru Urban District website</ExtLink>, <ExtLink href="https://www.sobha.com/city/bengaluru/">SOBHA’s Bengaluru project directory</ExtLink> and <ExtLink href="https://rera.karnataka.gov.in/">Karnataka RERA portal</ExtLink> are useful starting points for official information.
+          </p>
+        </section>
+
         <nav className="mt-6 rounded-xl bg-gray-50 p-5" aria-label="Projects in this guide">
-          <h2 className="text-lg font-semibold text-gray-900">Projects in this guide</h2>
+          <h2 className="text-lg font-semibold text-gray-900">5 SOBHA projects in Bengaluru</h2>
           <ol className="mt-3 grid gap-2 sm:grid-cols-2">
             {projects.map((project, index) => (
               <li key={project.name}>
@@ -128,31 +157,34 @@ function BangalorePage({ faqs = [] }) {
 
         <section className="mt-10 space-y-5" aria-labelledby="sobha-projects-heading">
           <h2 id="sobha-projects-heading" className="text-xl font-semibold text-gray-900 md:text-2xl">
-            Sobha projects: locations and supplied details
+            Five SOBHA projects in Bangalore to compare
           </h2>
+          <p className="leading-7 text-gray-700">
+            The selection below reflects a mix of locations, home sizes and residential formats shown in SOBHA’s Bengaluru project directory. It is not a quality ranking. Areas, unit counts and completion dates are reproduced from the developer’s project pages and can change; consult the linked project page and official records for the latest details.
+          </p>
           {projects.map((project, index) => (
             <div key={project.name} id={`project-${index + 1}`}>
               <ProjectCard project={project} index={index} />
             </div>
           ))}
           <p className="text-sm leading-6 text-gray-600">
-            Project facts, prices, approvals, RERA identifiers and possession timelines above are reproduced from supplied information and may be incomplete or change. Verify identifiers and current status on the{" "}
-            <ExtLink href="https://rera.karnataka.gov.in/">Karnataka RERA portal</ExtLink>, and confirm prices, availability and commitments with the developer. The supplied Sobha One World information includes conflicting RERA-status details, so its registration number and status especially require direct verification.
+            Project descriptions and figures were checked against the developer’s public pages during preparation. Availability, prices, regulatory status and completion commitments can change. Confirm the exact phase and registration details on the{" "}
+            <ExtLink href="https://rera.karnataka.gov.in/">Karnataka RERA portal</ExtLink> before making a decision.
           </p>
         </section>
 
         <section className="mt-10 space-y-4 leading-7 text-gray-800">
           <h2 className="text-xl font-semibold text-gray-900 md:text-2xl">
-            How these five Sobha developments differ
+            How these Bengaluru projects differ
           </h2>
           <p>
-            The projects span different locations and property formats. Sobha One World is described as a large themed apartment development near Hoskote, while Sobha Neopolis is on Panathur Road near the Marathahalli-ORR corridor. Sobha Liora is listed in Immadihalli, Whitefield, and Sobha Victoria Park is off Hennur Road. Sobha Sacred Grove by the Lake is a plotted development in Chikkathirupathi, Malur. These locations serve different daily travel patterns, so compare actual routes to your workplace and regular destinations rather than choosing by project name alone.
+            The five projects represent different parts of the city. OneWorld is in Greater Whitefield on Old Madras Road; Townpark is near Electronic City on Hosur Road; Altair is off Sarjapur Main Road; and Neopolis and Ayana are both in the Panathur–Balagere area near the Marathahalli–Outer Ring Road corridor. Compare the exact site entrances and your regular routes rather than assuming projects in the same broad zone have identical connectivity.
           </p>
           <p>
-            The apartment options also differ in scale and configuration. The supplied information lists 1 to 4 BHK at One World, 3 to 4 BHK at Liora, and 2 or 3 BHK at Victoria Park; Neopolis is described as having 1,875 apartments across 19 towers. Sacred Grove is not an apartment community: buyers should assess its plot dimensions, site infrastructure and permitted use. Confirm the latest inventory and approved plans before comparing individual homes or sites.
+            Home sizes and configurations differ: the official project listings show 1–4-bed options at OneWorld, 3- and 4-bedroom residences at Altair and Neopolis, 2–4-bedroom residences at Townpark, and 3-bedroom homes at Ayana. These summaries help narrow a search, but they do not replace the current unit schedule, approved drawings or a project-specific cost sheet.
           </p>
           <p>
-            Headline prices are not directly comparable unless their inclusions are clear. Request a current cost sheet and check whether it covers taxes, registration, parking, maintenance deposits and other charges. For apartments, review the approved layout, carpet and saleable area definitions, specifications and agreement terms. For a plot, verify its boundaries, title, access, infrastructure and development approvals.
+            Compare total ownership cost rather than just a headline price. Request a dated quotation and check taxes, registration, parking, maintenance deposits, payment milestones and other charges. Confirm whether each quoted area is carpet, built-up or saleable area, and review the approved layout, specifications and agreement terms before booking.
           </p>
         </section>
 
@@ -161,7 +193,7 @@ function BangalorePage({ faqs = [] }) {
             A practical checklist before shortlisting
           </h2>
           <p>
-            Use the following checks to turn a broad comparison into a project-specific review. Ask for documents that correspond to the exact tower, apartment or plot you are considering, not just general marketing material.
+            Use the following checks to turn a broad comparison into a project-specific review. Ask for documents that correspond to the exact phase, tower and apartment you are considering, not just general marketing material.
           </p>
           <ul className="list-disc space-y-3 pl-6">
             <li><strong>Confirm the identity and status:</strong> Match the project name, developer, location and RERA registration number against the Karnataka RERA portal. Check that the registration is active and applies to the phase or property being offered.</li>
@@ -169,10 +201,9 @@ function BangalorePage({ faqs = [] }) {
             <li><strong>Test the location for your routine:</strong> Visit the site, inspect the approach roads and check travel times to work, schools, healthcare and transit at the times you normally travel.</li>
             <li><strong>Get the full financial picture:</strong> Compare a dated written quotation, payment milestones, taxes, registration, maintenance charges, cancellation provisions and any other fees.</li>
             <li><strong>Read the contract and delivery terms:</strong> Check the agreement for sale, specifications, possession date, delay provisions and what is included in the handover.</li>
-            <li><strong>For plotted developments:</strong> Confirm the exact plot number and dimensions, title, access, utilities, development status and what construction is permitted.</li>
           </ul>
           <p>
-            Registration references and launch descriptions on this page come from supplied project information and are not a substitute for checking current official records. In particular, verify any project whose supplied status and registration details appear inconsistent before paying an amount or signing a document.
+            Project descriptions are useful for shortlisting, but do not establish legal status or guarantee future infrastructure, appreciation, rental income or delivery. Check current official records and written contract terms before paying or signing.
           </p>
         </section>
 
@@ -184,7 +215,7 @@ function BangalorePage({ faqs = [] }) {
             id="bangalore-faq-heading"
             className="mb-3 text-center text-2xl font-semibold text-gray-900"
           >
-            Frequently asked questions about Sobha projects in Bangalore
+            Frequently asked questions about Bengaluru and SOBHA projects
           </h2>
           <div className="mb-6 h-px w-full bg-gray-200" />
           <div className="space-y-6 text-gray-800">
@@ -204,7 +235,7 @@ function BangalorePage({ faqs = [] }) {
             Sobha Parqcity on Hennur Main Road
           </h2>
           <p className="mt-4 leading-7 text-gray-800">
-            This website also covers Sobha Parqcity, a proposed township on Hennur Main Road in North Bangalore. Its supplied project information describes approximately 50 acres, 12 blocks, 24 wings, around 4,463 apartments, a floor structure of 3 basements + ground + 42 floors, 1 to 4 BHK configurations and a starting price of ₹1.1 crore. These details are preliminary and should be confirmed through current official disclosures.
+            This website also publishes information about Sobha Parqcity, described here as a proposed residential development on Hennur Main Road in North Bengaluru. Check the latest project disclosures and applicable approvals independently, as project details, availability and pricing may change.
           </p>
           <p className="mt-4 leading-7 text-gray-800">
             Explore the <IntLink href="/">Sobha Parqcity overview</IntLink>, review its <IntLink href="/location">location information</IntLink>, or contact us to request current project material.

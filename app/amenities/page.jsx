@@ -3,34 +3,54 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import AmenitiesPage from "./AmenitiesPage";
 
 const PATH = "/amenities";
-const TITLE = "Sobha Parqcity Amenities | Hennur Main Road, Bangalore";
+const TITLE = "Sobha Parqcity Amenities | Clubhouse & Open Space, Hennur";
 const DESCRIPTION =
-  "Explore planned amenities at Sobha Parqcity on Hennur Main Road, North Bangalore. Review clubhouse, fitness, sports and family facilities; the final official list is awaited.";
+  "Explore the proposed Sobha Parqcity amenities on Hennur Main Road, North Bangalore. The project website states 40+ amenities, approximately 80% open space and a 50,000 sq. ft. clubhouse; verify facilities and specifications in the official amenity schedule.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parqcity facilities list",
-    "Sobha Parqcity Hennur amenities",
+    "Sobha Parqcity amenities",
+    "Sobha Parqcity amenities list",
     "Sobha Parqcity clubhouse",
     "Sobha Parqcity clubhouse size",
-    "Sobha Parqcity lifestyle amenities",
-    "Sobha Parqcity sports facilities",
-    "Sobha Parqcity kids play area",
-    "Sobha Parqcity landscaped open space",
-    "Sobha Hennur clubhouse",
-    "gated community facilities Hennur Bangalore",
+    "Sobha Parqcity 40 amenities",
+    "Sobha Parqcity open space",
+    "Sobha Parqcity Hennur Main Road",
+    "Sobha Parqcity gym swimming pool",
+    "Sobha Parqcity outdoor facilities",
+    "Hennur Bangalore apartment amenities",
   ],
   images: [{ ...IMAGES.amenities, alt: "Lifestyle facilities at Sobha Parqcity, Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [
-  ["Which facilities will Sobha Parqcity have?", "The developer has not yet published the final amenity list. Expect categories such as a clubhouse, fitness and wellness areas, sports courts, children's play zones, landscaped gardens and security systems, to be confirmed in the official brochure."],
-  ["Is there a clubhouse at Sobha Parqcity?", "A clubhouse is expected for a community of this size, but its size and facilities will only be known once the approved amenity plan is released."],
-  ["How many homes will share the amenities?", "Close to 1,400 apartments (tentative) are planned on about 25 acres, so it is worth checking whether facilities are sized for that many residents."],
-  ["Will amenities be ready at possession?", "Handover is proposed for December 2031. Ask the developer which amenities will be operational at possession and whether any carry extra charges."],
+  [
+    "How many amenities are planned at Sobha Parkcity?",
+    "The project website mentions more than 40 amenities. The complete facility list should be confirmed through official developer documentation.",
+  ],
+  [
+    "What is the clubhouse size?",
+    "The stated clubhouse area is approximately 50,000 sq. ft.",
+  ],
+  [
+    "What is the open-space allocation?",
+    "The project website mentions approximately 80% open space across the development.",
+  ],
+  [
+    "Does Sobha Parkcity have a gym and swimming pool?",
+    "The supplied project information does not confirm individual facilities such as a gymnasium or swimming pool. Buyers should request the latest official amenity list.",
+  ],
+  [
+    "Are outdoor recreational facilities included?",
+    "The website mentions more than 40 amenities and 80% open space, but individual outdoor facilities and their locations require confirmation.",
+  ],
+  [
+    "Where can buyers check the complete amenities list?",
+    "Buyers can request the official amenity schedule, clubhouse specifications, and approved master plan from the developer or authorised sales representative.",
+  ],
 ];
 
 const schema = pageSchema({ path: PATH, name: "Amenities", title: TITLE, description: DESCRIPTION, image: IMAGES.amenities.url, faqs: FAQS });
