@@ -39,7 +39,7 @@ function MasterPlanPage() {
             </div>
           </div>
 
-  <p><a href="https://www.sobhaparqcity.in/"><strong>Sobha Parkcity</strong></a> is planned as a high-rise residential development with the following specifications:</p>
+  <p><a href="https://www.sobhaparqcity.in/"><strong>Sobha Parq City</strong></a> is planned as a high-rise residential development with the following specifications:</p>
 
   <div className="overflow-x-auto">
     <table className="w-full border-collapse border border-gray-300">
@@ -112,7 +112,7 @@ function MasterPlanPage() {
 
   <h2 className="text-2xl font-bold">Clubhouse and Amenity Planning</h2>
 
-  <p>The proposed clubhouse is another important component of the Sobha Parkcity master plan. According to the project information, it covers approximately 50,000 sq. ft.</p>
+  <p>The proposed clubhouse is another important component of the Sobha Parq City master plan. According to the project information, it covers approximately 50,000 sq. ft.</p>
 
   <p>A clubhouse of this size represents a dedicated common facility within the residential development. Its placement and accessibility are important considerations for residents living across different towers.</p>
 
@@ -128,7 +128,7 @@ function MasterPlanPage() {
 
   <p>Well-organised circulation planning helps residents, visitors, and service vehicles access different parts of the property. Buyers should also check how pedestrian movement is accommodated alongside vehicle circulation.</p>
 
-  <p>The exact entry gates, road widths, traffic routes, and pedestrian pathways for Sobha Parkcity should be confirmed through the official site layout rather than assumed from general project specifications.</p>
+  <p>The exact entry gates, road widths, traffic routes, and pedestrian pathways for Sobha Parq City should be confirmed through the official site layout rather than assumed from general project specifications.</p>
 
   <h2 className="text-2xl font-bold">Sobha Parq City Master Plan and Construction Planning</h2>
 
@@ -140,7 +140,7 @@ function MasterPlanPage() {
 
   <h2 className="text-2xl font-bold">Project Phases and Development Status</h2>
 
-  <p>The project website describes <b>Sobha Parkcity</b> as being in a pre-launch or Expression of Interest (EOI) stage. The current development and sales status should be confirmed directly through the developer.</p>
+  <p>The project website describes <b>Sobha Parq City</b> as being in a pre-launch or Expression of Interest (EOI) stage. The current development and sales status should be confirmed directly through the developer.</p>
 
   <p>The master-plan page mentions <b>July 2031</b> as the proposed possession timeline. However, the launch date information remains unconfirmed, and the official RERA registration number has not been verified.</p>
 
@@ -163,7 +163,7 @@ function MasterPlanPage() {
 <div className="space-y-6 text-gray-800 mt-6">
   <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Master Plan</h2>
 
-  <h3 className="text-xl font-bold">1. What is the total land area of Sobha Parkcity?</h3>
+  <h3 className="text-xl font-bold">1. What is the total land area of Sobha Parq City?</h3>
   <p>The proposed residential development covers approximately 50 acres.</p>
 
   <h3 className="text-xl font-bold">2. How many towers are included in the master plan?</h3>

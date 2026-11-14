@@ -180,13 +180,13 @@ function LocationPage() {
 <div className="space-y-6 text-gray-800 mt-6">
   <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Location</h2>
 
-  <h3 className="text-xl font-bold">1. Where is Sobha Parkcity located?</h3>
+  <h3 className="text-xl font-bold">1. Where is Sobha Parq City located?</h3>
   <p>The project is located on Hennur Main Road in North Bangalore, within the wider Hennur region.</p>
 
-  <h3 className="text-xl font-bold">2. How is Sobha Parkcity connected to the airport?</h3>
+  <h3 className="text-xl font-bold">2. How is Sobha Parq City connected to the airport?</h3>
   <p>The location has road access towards Kempegowda International Airport through Hennur–Bagalur Main Road and the alternative Hebbal–NH 44 route.</p>
 
-  <h3 className="text-xl font-bold">3. Is metro connectivity available near Sobha Parkcity?</h3>
+  <h3 className="text-xl font-bold">3. Is metro connectivity available near Sobha Parq City?</h3>
   <p>The proposed Namma Metro Blue Line Phase 2B is planned to serve the wider North Bangalore and airport corridor. Its operational status and nearest station should be verified.</p>
 
   <h3 className="text-xl font-bold">4. Which IT parks are accessible from Hennur?</h3>

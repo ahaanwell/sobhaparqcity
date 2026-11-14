@@ -25,7 +25,7 @@ function PricePage() {
           <DownloadActions/>
           
 <div className="space-y-6 text-gray-800 mt-6">
-  <p><strong>Sobha Parq City Price</strong> varies according to apartment configuration, size, and the selected unit. Located on <b>Hennur Main Road in North Bangalore</b>, <a href="https://www.sobhaparqcity.in"><strong>Sobha Parkcity</strong></a> is an upcoming residential development planned across <b>50 acres</b>. The project offers spacious apartment configurations designed to accommodate different household requirements.</p>
+  <p><strong>Sobha Parq City Price</strong> varies according to apartment configuration, size, and the selected unit. Located on <b>Hennur Main Road in North Bangalore</b>, <a href="https://www.sobhaparqcity.in"><strong>Sobha Parq City</strong></a> is an upcoming residential development planned across <b>50 acres</b>. The project offers spacious apartment configurations designed to accommodate different household requirements.</p>
 
   <p>The indicative starting prices range from ₹1.1 Cr onwards for the listed 1 BHK configuration to ₹4.40 Cr onwards for a 4 BHK apartment. The price difference reflects variations in apartment size and configuration. Buyers evaluating the project can compare the available unit sizes and starting prices to understand which option aligns with their budget and space requirements.</p>
   <img width={1000} height={664}
@@ -165,7 +165,7 @@ function PricePage() {
 
   <h2 className="text-2xl font-bold">Project Details and Pricing Context</h2>
 
-  <p><b>Sobha Parkcity</b> is planned as a residential development by <a href="https://www.sobha.com/" target="_blank" rel="nofollow noopener noreferrer"><b>Sobha Group</b></a> on <b>Hennur Main Road, North Bangalore</b>. The project covers approximately <b>50 acres</b> and is planned to accommodate more than <b>4,463 apartments across 12 towers</b>.</p>
+  <p><b>Sobha Parq City</b> is planned as a residential development by <a href="https://www.sobha.com/" target="_blank" rel="nofollow noopener noreferrer"><b>Sobha Group</b></a> on <b>Hennur Main Road, North Bangalore</b>. The project covers approximately <b>50 acres</b> and is planned to accommodate more than <b>4,463 apartments across 12 towers</b>.</p>
 
   <p>The project information also mentions <b>80% open space</b>, a clubhouse of approximately 50,000 sq. ft., and more than 40 amenities. These are website-stated project details and should be independently confirmed through the developer's official documentation.</p>
 

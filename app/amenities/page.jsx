@@ -28,7 +28,7 @@ export const metadata = buildMetadata({
 
 const FAQS = [
   [
-    "How many amenities are planned at Sobha Parkcity?",
+    "How many amenities are planned at Sobha Parq City?",
     "The project website mentions more than 40 amenities. The complete facility list should be confirmed through official developer documentation.",
   ],
   [
@@ -40,7 +40,7 @@ const FAQS = [
     "The project website mentions approximately 80% open space across the development.",
   ],
   [
-    "Does Sobha Parkcity have a gym and swimming pool?",
+    "Does Sobha Parq City have a gym and swimming pool?",
     "The supplied project information does not confirm individual facilities such as a gymnasium or swimming pool. Buyers should request the latest official amenity list.",
   ],
   [

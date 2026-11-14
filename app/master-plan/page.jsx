@@ -28,7 +28,7 @@ export const metadata = buildMetadata({
 
 const FAQS = [
   [
-    "What is the total land area of Sobha Parkcity?",
+    "What is the total land area of Sobha Parq City?",
     "The proposed residential development covers approximately 50 acres.",
   ],
   [

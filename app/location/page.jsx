@@ -28,15 +28,15 @@ export const metadata = buildMetadata({
 
 const FAQS = [
   [
-    "Where is Sobha Parkcity located?",
+    "Where is Sobha Parq City located?",
     "The project is located on Hennur Main Road in North Bangalore, within the wider Hennur region.",
   ],
   [
-    "How is Sobha Parkcity connected to the airport?",
+    "How is Sobha Parq City connected to the airport?",
     "The location has road access towards Kempegowda International Airport through Hennur–Bagalur Main Road and the alternative Hebbal–NH 44 route.",
   ],
   [
-    "Is metro connectivity available near Sobha Parkcity?",
+    "Is metro connectivity available near Sobha Parq City?",
     "The proposed Namma Metro Blue Line Phase 2B is planned to serve the wider North Bangalore and airport corridor. Its operational status and nearest station should be verified.",
   ],
   [

@@ -135,7 +135,7 @@ function FloorPlanPage() {
 
   <h2 className="text-2xl font-bold">Tower-Wise Apartment Distribution at Sobha Parq City</h2>
 
-  <p><a href="https://www.sobhaparqcity.in/"><strong>Sobha Parkcity</strong></a> is planned with 12 residential towers and approximately 4,463+ apartments. This makes tower-wise distribution an important consideration when reviewing the overall residential layout.</p>
+  <p><a href="https://www.sobhaparqcity.in/"><strong>Sobha Parq City</strong></a> is planned with 12 residential towers and approximately 4,463+ apartments. This makes tower-wise distribution an important consideration when reviewing the overall residential layout.</p>
 
   <p>Based on the available figures, the approximate average apartment distribution can be calculated as follows:</p>
 

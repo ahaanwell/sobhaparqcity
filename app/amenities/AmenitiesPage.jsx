@@ -109,7 +109,7 @@ function AmenitiesPage() {
 
   <h2 className="text-2xl font-bold">Project Specifications and Amenity Planning</h2>
 
-  <p><a href="https://www.sobhaparqcity.in/"><strong>Sobha Parkcity</strong></a> is planned with 12 towers and approximately 4,463+ apartments in 2, 3, and 4 BHK configurations. The project website also states Mivan construction technology and approximately 73% floor plan efficiency.</p>
+  <p><a href="https://www.sobhaparqcity.in/"><strong>Sobha Parq City</strong></a> is planned with 12 towers and approximately 4,463+ apartments in 2, 3, and 4 BHK configurations. The project website also states Mivan construction technology and approximately 73% floor plan efficiency.</p>
 
   <p>These specifications relate to the development's construction and residential planning rather than directly confirming individual amenities. The final amenity schedule, clubhouse drawings, and approved master plan should be considered together when evaluating the overall facilities.</p>
 </div>
@@ -117,7 +117,7 @@ function AmenitiesPage() {
 <div className="space-y-6 text-gray-800 mt-6">
   <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Amenities</h2>
 
-  <h3 className="text-xl font-bold">1. How many amenities are planned at Sobha Parkcity?</h3>
+  <h3 className="text-xl font-bold">1. How many amenities are planned at Sobha Parq City?</h3>
   <p>The project website mentions more than 40 amenities. The complete facility list should be confirmed through official developer documentation.</p>
 
   <h3 className="text-xl font-bold">2. What is the clubhouse size?</h3>
@@ -126,7 +126,7 @@ function AmenitiesPage() {
   <h3 className="text-xl font-bold">3. What is the open-space allocation?</h3>
   <p>The project website mentions approximately 80% open space across the development.</p>
 
-  <h3 className="text-xl font-bold">4. Does Sobha Parkcity have a gym and swimming pool?</h3>
+  <h3 className="text-xl font-bold">4. Does Sobha Parq City have a gym and swimming pool?</h3>
   <p>The supplied project information does not confirm individual facilities such as a gymnasium or swimming pool. Buyers should request the latest official amenity list.</p>
 
   <h3 className="text-xl font-bold">5. Are outdoor recreational facilities included?</h3>
