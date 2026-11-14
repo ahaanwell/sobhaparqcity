@@ -3,27 +3,27 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import LocationPage from "./LocationPage";
 
 const PATH = "/location";
-const TITLE = "Sobha Parqcity Location | Hennur Road, North Bangalore";
+const TITLE = "Sobha Parq City Location | Hennur Road, North Bangalore";
 const DESCRIPTION =
-  "Explore Sobha Parqcity’s location on Hennur Main Road, North Bangalore. Review road and airport connectivity, proposed metro access, nearby IT parks, schools, hospitals and shopping, and verify routes and project details before visiting.";
+  "Explore Sobha Parq City’s location on Hennur Main Road, North Bangalore. Review road and airport connectivity, proposed metro access, nearby IT parks, schools, hospitals and shopping, and verify routes and project details before visiting.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parqcity location",
-    "Sobha Parqcity Hennur Main Road",
-    "Sobha Parqcity North Bangalore location",
-    "Sobha Parqcity connectivity",
-    "Sobha Parqcity airport connectivity",
-    "Sobha Parqcity metro connectivity",
+    "Sobha Parq City location",
+    "Sobha Parq City Hennur Main Road",
+    "Sobha Parq City North Bangalore location",
+    "Sobha Parq City connectivity",
+    "Sobha Parq City airport connectivity",
+    "Sobha Parq City metro connectivity",
     "IT parks near Hennur",
     "schools near Hennur Main Road",
     "hospitals near Hennur",
     "Hennur Main Road Bangalore connectivity",
   ],
-  images: [{ ...IMAGES.map, alt: "Sobha Parqcity, proposed on Hennur Main Road in North Bangalore" }],
+  images: [{ ...IMAGES.map, alt: "Sobha Parq City, proposed on Hennur Main Road in North Bangalore" }],
 });
 
 const FAQS = [

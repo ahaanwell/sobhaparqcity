@@ -13,12 +13,12 @@ function AmenitiesPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parqcity Amenities
+            Sobha Parq City Amenities
           </h1>
           <DownloadActions/>
           
 <div className="space-y-6 text-gray-800 mt-6">
-  <p>The <strong>Sobha Parqcity Amenities</strong> are an important part of the proposed residential development by <b>Sobha Group</b> on <b>Hennur Main Road</b>, North Bangalore. Planned across approximately <b>50 acres</b>, the project is designed as a large residential community featuring 12 towers and more than <b>4,463 apartments</b>. Its website mentions over <b>40 amenities</b>, approximately <b>80% open space</b>, and a clubhouse measuring around <b>50,000 sq. ft.</b></p>
+  <p>The <strong>Sobha Parq City Amenities</strong> are an important part of the proposed residential development by <b>Sobha Group</b> on <b>Hennur Main Road</b>, North Bangalore. Planned across approximately <b>50 acres</b>, the project is designed as a large residential community featuring 12 towers and more than <b>4,463 apartments</b>. Its website mentions over <b>40 amenities</b>, approximately <b>80% open space</b>, and a clubhouse measuring around <b>50,000 sq. ft.</b></p>
 
   <p>For a luxury high-rise residential development of this scale, amenities play an important role in shaping everyday living. They provide dedicated spaces for fitness, recreation, relaxation, and social interaction. The proposed amenity planning can be evaluated by looking at how these facilities may serve residents across different age groups and household requirements.</p>
   <img width={1000} height={664}
@@ -27,7 +27,7 @@ function AmenitiesPage() {
               alt="Amenities"
               loading="lazy"
             />
-  <h2 className="text-2xl font-bold">Sobha Parqcity Amenities and Lifestyle Facilities</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Amenities and Lifestyle Facilities</h2>
 
   <p>The project information identifies more than 40 amenities, although a complete, verified facility-wise list has not been provided. The following premium amenity categories describe the facilities buyers may look for when evaluating a luxury residential community. Their actual availability and specifications should be confirmed through the developer's official amenity schedule.</p>
 
@@ -47,7 +47,7 @@ function AmenitiesPage() {
 
   <p>Buyers should confirm the availability, dimensions, and specifications of swimming facilities from the official amenity list rather than assuming their inclusion.</p>
 
-  <h2 className="text-2xl font-bold">Fitness and Wellness Amenities at Sobha Parqcity</h2>
+  <h2 className="text-2xl font-bold">Fitness and Wellness Amenities at Sobha Parq City</h2>
 
   <p>Fitness-related facilities are an important consideration for residents who prefer regular physical activity within their residential community. A well-planned luxury development may provide dedicated indoor and outdoor spaces for exercise.</p>
 
@@ -115,7 +115,7 @@ function AmenitiesPage() {
 </div>
 
 <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parqcity Amenities</h2>
+  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Amenities</h2>
 
   <h3 className="text-xl font-bold">1. How many amenities are planned at Sobha Parkcity?</h3>
   <p>The project website mentions more than 40 amenities. The complete facility list should be confirmed through official developer documentation.</p>

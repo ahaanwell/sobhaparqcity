@@ -13,7 +13,7 @@ function MasterPlanPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parqcity Master Plan
+            Sobha Parq City Master Plan
           </h1>
           <DownloadActions/>
           
@@ -26,7 +26,7 @@ function MasterPlanPage() {
             >
               <img
                 src="./images/master-plan.webp"
-                alt="Sobha Parqcity master plan, Sarjapur Bangalore"
+                alt="Sobha Parq City master plan, Sarjapur Bangalore"
                 className="w-full h-full object-cover"
                 loading="lazy"
               />
@@ -92,13 +92,13 @@ function MasterPlanPage() {
 
   <p>These figures represent the available project information. The final tower arrangement and land-use distribution should be checked against the sanctioned master plan.</p>
 
-  <h2 className="text-2xl font-bold">Residential Tower Planning at Sobha Parqcity</h2>
+  <h2 className="text-2xl font-bold">Residential Tower Planning at Sobha Parq City</h2>
 
   <p>The residential development is planned across <b>12 high-rise towers</b> accommodating approximately <b>4,463 apartments</b>. The proposed apartment configurations include <b>1, 2, 3, and 4 BHK homes</b>.</p>
 
   <p>Tower placement is an important part of large residential developments because it influences building access, privacy, ventilation, and the relationship between residential blocks and common spaces.</p>
 
-  <p>When examining the <b>Sobha Parqcity master plan</b>, buyers should review the distance between towers, building orientation, entrance locations, and access to shared facilities. These details help in comparing different residential blocks before selecting an apartment.</p>
+  <p>When examining the <b>Sobha Parq City master plan</b>, buyers should review the distance between towers, building orientation, entrance locations, and access to shared facilities. These details help in comparing different residential blocks before selecting an apartment.</p>
 
   <p>The exact tower-wise unit distribution, floor counts, and individual building positions have not been verified in the available project information.</p>
 
@@ -130,7 +130,7 @@ function MasterPlanPage() {
 
   <p>The exact entry gates, road widths, traffic routes, and pedestrian pathways for Sobha Parkcity should be confirmed through the official site layout rather than assumed from general project specifications.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Master Plan and Construction Planning</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Master Plan and Construction Planning</h2>
 
   <p>The project website mentions Mivan construction technology for the proposed residential development. This is a formwork-based construction system used in concrete building construction.</p>
 
@@ -146,7 +146,7 @@ function MasterPlanPage() {
 
   <p>Although the website claims RERA and BBMP approvals, buyers should independently check the registration details and applicable sanctioned plans before making a booking decision.</p>
 
-  <h2 className="text-2xl font-bold">Why Review the Sobha Parqcity Master Plan?</h2>
+  <h2 className="text-2xl font-bold">Why Review the Sobha Parq City Master Plan?</h2>
 
   <p>Reviewing the master plan helps buyers evaluate the development beyond the apartment size and configuration. Important aspects to consider include:</p>
 
@@ -161,7 +161,7 @@ function MasterPlanPage() {
 </div>
 
 <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parqcity Master Plan</h2>
+  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Master Plan</h2>
 
   <h3 className="text-xl font-bold">1. What is the total land area of Sobha Parkcity?</h3>
   <p>The proposed residential development covers approximately 50 acres.</p>

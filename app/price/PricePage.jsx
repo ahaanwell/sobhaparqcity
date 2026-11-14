@@ -20,21 +20,21 @@ function PricePage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parqcity Price
+            Sobha Parq City Price
           </h1>
           <DownloadActions/>
           
 <div className="space-y-6 text-gray-800 mt-6">
-  <p><strong>Sobha Parqcity Price</strong> varies according to apartment configuration, size, and the selected unit. Located on <b>Hennur Main Road in North Bangalore</b>, <a href="https://www.sobhaparqcity.in"><strong>Sobha Parkcity</strong></a> is an upcoming residential development planned across <b>50 acres</b>. The project offers spacious apartment configurations designed to accommodate different household requirements.</p>
+  <p><strong>Sobha Parq City Price</strong> varies according to apartment configuration, size, and the selected unit. Located on <b>Hennur Main Road in North Bangalore</b>, <a href="https://www.sobhaparqcity.in"><strong>Sobha Parkcity</strong></a> is an upcoming residential development planned across <b>50 acres</b>. The project offers spacious apartment configurations designed to accommodate different household requirements.</p>
 
   <p>The indicative starting prices range from ₹1.1 Cr onwards for the listed 1 BHK configuration to ₹4.40 Cr onwards for a 4 BHK apartment. The price difference reflects variations in apartment size and configuration. Buyers evaluating the project can compare the available unit sizes and starting prices to understand which option aligns with their budget and space requirements.</p>
   <img width={1000} height={664}
               className="w-full lg:w-1/2 m-auto mb-6"
               src="/images/costing-details.webp"
-              alt="Sobha Parqcity Price"
+              alt="Sobha Parq City Price"
               loading="lazy"
             />
-  <h2 className="text-2xl font-bold">Sobha Parqcity Apartment Price List</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Apartment Price List</h2>
 
   <p>The project has multiple apartment configurations with different super built-up areas and indicative starting prices. The following table provides an overview of the available pricing information.</p>
 
@@ -74,7 +74,7 @@ function PricePage() {
 
   <p><em>Note: Prices are indicative and subject to confirmation by the developer. The final cost may vary depending on the selected apartment, applicable charges, and the latest pricing schedule.</em></p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Price Per Square Foot</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Price Per Square Foot</h2>
 
   <p>The price per square foot is an important factor when comparing different apartment configurations. It provides buyers with a common reference for understanding the relationship between apartment size and the quoted starting price.</p>
 
@@ -121,7 +121,7 @@ function PricePage() {
 
   <p>These figures are calculated using the provided starting prices and super built-up areas. They should be treated as approximate comparisons rather than confirmed developer-quoted rates. The final rate may differ according to the actual unit price and applicable charges.</p>
 
-  <h2 className="text-2xl font-bold">Understanding the Sobha Parqcity Price by Apartment Configuration</h2>
+  <h2 className="text-2xl font-bold">Understanding the Sobha Parq City Price by Apartment Configuration</h2>
 
   <p>The apartment configurations have different space requirements and entry-level prices. Understanding these differences can help prospective buyers evaluate the available options more effectively.</p>
 
@@ -149,7 +149,7 @@ function PricePage() {
 
   <p>This is the largest configuration included in the supplied price list. Buyers looking for a larger residential layout can assess its overall cost alongside the available apartment size.</p>
 
-  <h2 className="text-2xl font-bold">Factors That May Affect the Final Sobha Parqcity Price</h2>
+  <h2 className="text-2xl font-bold">Factors That May Affect the Final Sobha Parq City Price</h2>
 
   <p>The starting prices provide an initial understanding of the project's pricing structure. However, the final apartment purchase cost may depend on several factors.</p>
 
@@ -173,7 +173,7 @@ function PricePage() {
 
   <h2 className="text-2xl font-bold">Additional Charges and Payment Considerations</h2>
 
-  <p>The advertised <b>Sobha Parqcity Price</b> represents an indicative starting amount and may not include every expense associated with purchasing an apartment.</p>
+  <p>The advertised <b>Sobha Parq City Price</b> represents an indicative starting amount and may not include every expense associated with purchasing an apartment.</p>
 
   <p>Before proceeding, buyers should request a complete cost breakdown covering applicable taxes, stamp duty, registration charges, and any other additional costs specified by the developer. The payment schedule, booking amount, cancellation terms, and agreement conditions should also be reviewed carefully.</p>
 
@@ -181,13 +181,13 @@ function PricePage() {
 </div>
 
 <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parqcity Price</h2>
+  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Price</h2>
 
-  <h3 className="text-xl font-bold">1. What is the starting price of Sobha Parqcity?</h3>
+  <h3 className="text-xl font-bold">1. What is the starting price of Sobha Parq City?</h3>
 
   <p>The indicative starting price is ₹1.1 Cr onwards for the listed 1 BHK configuration. Prices for larger configurations start at ₹2.38 Cr for 2 BHK, ₹2.97 Cr for 3 BHK, and ₹4.40 Cr for 4 BHK.</p>
 
-  <h3 className="text-xl font-bold">2. What is the price of a 2 BHK apartment in Sobha Parqcity?</h3>
+  <h3 className="text-xl font-bold">2. What is the price of a 2 BHK apartment in Sobha Parq City?</h3>
 
   <p>The listed 2 BHK apartment has an area of 1,400 sq. ft., with an indicative starting price of ₹2.38 Cr onwards.</p>
 
@@ -199,7 +199,7 @@ function PricePage() {
 
   <p>The listed 4 BHK apartment measures approximately 2,600 sq. ft., with an indicative starting price of ₹4.40 Cr onwards.</p>
 
-  <h3 className="text-xl font-bold">5. Does the Sobha Parqcity Price include registration and taxes?</h3>
+  <h3 className="text-xl font-bold">5. Does the Sobha Parq City Price include registration and taxes?</h3>
 
   <p>The supplied starting prices do not confirm whether registration, stamp duty, taxes, or other additional charges are included. Buyers should obtain an updated cost sheet from the developer.</p>
 

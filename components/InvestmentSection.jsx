@@ -13,7 +13,7 @@ export default function InvestmentSection() {
           id="investment-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parqcity Investment Potential
+          Sobha Parq City Investment Potential
         </h2>
 
         <div className="w-full h-px bg-gray-200 mb-6" />
@@ -26,7 +26,7 @@ export default function InvestmentSection() {
               loading="lazy"
             />
   <p>
-    <strong>Sobha Parqcity Investment Potential</strong> can be evaluated by considering the proposed township's scale, apartment configurations, location on Hennur Main Road in North Bangalore and planned possession timeline. Developed by Sobha Group, the proposed residential development spans approximately 50 acres and is planned to include 12 blocks, 24 wings, around 4,463 apartments and a floor structure of 3 basements + ground + 42 floors. These details provide prospective homebuyers and investors with several factors to assess when considering the project for future homeownership or long-term property investment.
+    <strong>Sobha Parq City Investment Potential</strong> can be evaluated by considering the proposed township's scale, apartment configurations, location on Hennur Main Road in North Bangalore and planned possession timeline. Developed by Sobha Group, the proposed residential development spans approximately 50 acres and is planned to include 12 blocks, 24 wings, around 4,463 apartments and a floor structure of 3 basements + ground + 42 floors. These details provide prospective homebuyers and investors with several factors to assess when considering the project for future homeownership or long-term property investment.
   </p>
 
   <p>
@@ -34,13 +34,13 @@ export default function InvestmentSection() {
   </p>
 
   <p>
-    Sobha Parqcity is currently described as a pre-launch project, with its RERA status listed as applied and possession planned for 2031. Buyers should verify the latest registration status, approvals and official project documents before making a financial commitment. Property appreciation and rental income are not guaranteed, so investment decisions should be based on reliable market information and realistic financial calculations.
+    Sobha Parq City is currently described as a pre-launch project, with its RERA status listed as applied and possession planned for 2031. Buyers should verify the latest registration status, approvals and official project documents before making a financial commitment. Property appreciation and rental income are not guaranteed, so investment decisions should be based on reliable market information and realistic financial calculations.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parqcity Investment Advantages</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City Investment Advantages</h3>
 
   <p>
-    Sobha Parqcity has several proposed characteristics that buyers can consider when evaluating its potential as a residential investment.
+    Sobha Parq City has several proposed characteristics that buyers can consider when evaluating its potential as a residential investment.
   </p>
 
   <ul className="list-disc space-y-2 pl-6">
@@ -55,10 +55,10 @@ export default function InvestmentSection() {
     These characteristics provide a starting point for evaluating the development; they do not establish guaranteed appreciation or investment returns. Their actual value will depend on the completed project, prevailing market conditions and the price paid for the selected apartment.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parqcity Investment for Long-Term Buyers</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City Investment for Long-Term Buyers</h3>
 
   <p>
-    Buyers considering Sobha Parqcity for long-term investment should assess whether their selected apartment suits their intended holding period. A home purchased for future self-occupation may be evaluated differently from a property acquired primarily for rental income or resale.
+    Buyers considering Sobha Parq City for long-term investment should assess whether their selected apartment suits their intended holding period. A home purchased for future self-occupation may be evaluated differently from a property acquired primarily for rental income or resale.
   </p>
 
   <p>
@@ -72,21 +72,21 @@ export default function InvestmentSection() {
   <h3 className="text-xl font-bold">Sobha Parqcity Rental Income Potential</h3>
 
   <p>
-    Rental income is one factor prospective investors may consider when evaluating a residential property. At Sobha Parqcity, the rental potential of individual apartments will depend on the completed development, surrounding residential demand, access to employment destinations, final apartment specifications and the rents tenants are willing to pay.
+    Rental income is one factor prospective investors may consider when evaluating a residential property. At Sobha Parq City, the rental potential of individual apartments will depend on the completed development, surrounding residential demand, access to employment destinations, final apartment specifications and the rents tenants are willing to pay.
   </p>
 
   <p>
-    The available project details do not establish verified rental estimates, occupancy projections or comparable rental transactions for Sobha Parqcity. Therefore, a specific monthly rent or rental yield cannot be reliably stated at this stage.
+    The available project details do not establish verified rental estimates, occupancy projections or comparable rental transactions for Sobha Parq City. Therefore, a specific monthly rent or rental yield cannot be reliably stated at this stage.
   </p>
 
   <p>
     Before investing primarily for rental income, buyers should compare rents for similar completed apartments in the relevant locality, estimate recurring expenses and calculate the expected net rental yield using realistic assumptions. They should also account for the period between purchase and possession, during which the property may not generate rental income.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parqcity Price and Appreciation Considerations</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City Price and Appreciation Considerations</h3>
 
   <p>
-    The supplied starting prices for Sobha Parqcity apartments are listed below. These figures can serve as initial reference points when assessing the budget required for a potential investment.
+    The supplied starting prices for Sobha Parq City apartments are listed below. These figures can serve as initial reference points when assessing the budget required for a potential investment.
   </p>
 
   <div className="overflow-x-auto">
@@ -130,7 +130,7 @@ export default function InvestmentSection() {
     Future appreciation will depend on several factors, including the final purchase price, market demand, project completion, housing supply in the surrounding area and broader economic conditions. The available project details do not establish a specific appreciation rate or future resale value.
   </p>
 
-  <h3 className="text-xl font-bold">Risks to Consider Before Investing in Sobha Parqcity</h3>
+  <h3 className="text-xl font-bold">Risks to Consider Before Investing in Sobha Parq City</h3>
 
   <p>
     Although the proposed development offers several factors to evaluate, prospective investors should also understand the risks associated with purchasing a property at the pre-launch stage.
@@ -147,13 +147,13 @@ export default function InvestmentSection() {
   </ul>
 
   <p>
-    Reviewing these factors can help buyers make a more informed decision about the suitability of Sobha Parqcity for their financial circumstances.
+    Reviewing these factors can help buyers make a more informed decision about the suitability of Sobha Parq City for their financial circumstances.
   </p>
 
-  <h3 className="text-xl font-bold">Is Sobha Parqcity a Good Investment?</h3>
+  <h3 className="text-xl font-bold">Is Sobha Parq City a Good Investment?</h3>
 
   <p>
-    Sobha Parqcity may be worth evaluating for buyers interested in a proposed large-scale residential township on Hennur Main Road in North Bangalore and who have a long-term ownership horizon. Its planned range of 1, 2, 3 and 4 BHK apartments provides different options for comparison, while the proposed possession timeline makes affordability, payment planning and the ability to hold the investment important considerations.
+    Sobha Parq City may be worth evaluating for buyers interested in a proposed large-scale residential township on Hennur Main Road in North Bangalore and who have a long-term ownership horizon. Its planned range of 1, 2, 3 and 4 BHK apartments provides different options for comparison, while the proposed possession timeline makes affordability, payment planning and the ability to hold the investment important considerations.
   </p>
 
   <p>

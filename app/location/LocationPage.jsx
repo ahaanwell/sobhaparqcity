@@ -11,12 +11,12 @@ function LocationPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parqcity Location and Connectivity
+            Sobha Parq City Location and Connectivity
           </h1>
           <DownloadActions/>
           
 <div className="space-y-6 text-gray-800 mt-6">
-  <p>The <strong>Sobha Parqcity Location</strong> on <b>Hennur Main Road, North Bangalore</b>, offers access to an established network of residential neighbourhoods, employment centres, educational institutions, healthcare facilities, and major transport corridors. Developed by <b>Sobha Group</b>, the proposed residential development is positioned within the wider Hennur–Chikkagubbi region, connecting residents to important parts of North and <a href="https://en.wikipedia.org/wiki/Bangalore_East" target="_blank" rel="nofollow noopener noreferrer"><b>East Bangalore</b></a>.</p>
+  <p>The <strong>Sobha Parq City Location</strong> on <b>Hennur Main Road, North Bangalore</b>, offers access to an established network of residential neighbourhoods, employment centres, educational institutions, healthcare facilities, and major transport corridors. Developed by <b>Sobha Group</b>, the proposed residential development is positioned within the wider Hennur–Chikkagubbi region, connecting residents to important parts of North and <a href="https://en.wikipedia.org/wiki/Bangalore_East" target="_blank" rel="nofollow noopener noreferrer"><b>East Bangalore</b></a>.</p>
 
   <p>The location benefits from road connections towards Hebbal, Thanisandra, Yelahanka, and the Outer Ring Road. Its proximity to the airport corridor and proposed metro infrastructure also makes it relevant for buyers evaluating long-term residential convenience and connectivity.</p>
   <img width={1000} height={664}
@@ -26,11 +26,11 @@ function LocationPage() {
               loading="lazy"
             />
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Road Connectivity</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Road Connectivity</h2>
 
   <p><b>Hennur Main Road</b> is the primary road corridor serving the locality. It connects with the Outer Ring Road and continues north towards <b>Hennur–Bagalur Main Road</b>, providing access to neighbouring residential areas and the airport-side region.</p>
 
-  <h3 className="text-xl font-bold">Major Roads Connecting Sobha Parqcity</h3>
+  <h3 className="text-xl font-bold">Major Roads Connecting Sobha Parq City</h3>
 
   <ul className="list-disc space-y-2 pl-6">
     <li><strong>Hennur Main Road:</strong> Connects Hennur with Kalyan Nagar, HBR Layout and surrounding residential neighbourhoods.</li>
@@ -42,7 +42,7 @@ function LocationPage() {
 
   <p>These road connections provide alternative travel routes depending on the destination and prevailing traffic conditions.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Airport Connectivity</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Airport Connectivity</h2>
 
   <p><b>Kempegowda International Airport</b> is an important connectivity point for residents who travel frequently for business or personal purposes. Hennur's northern road network provides access towards the airport through Hennur–Bagalur Main Road.</p>
 
@@ -50,7 +50,7 @@ function LocationPage() {
 
   <p>The wider Chikkagubbi corridor is reported to be approximately 15–16 km from the airport, although the actual distance from the project entrance must be confirmed.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Metro Connectivity</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Metro Connectivity</h2>
 
   <p>Metro connectivity is an important upcoming infrastructure development for North Bangalore. The Namma Metro Blue Line, also known as Phase 2B, is planned to connect the airport with the city through the KR Puram and Hebbal corridors.</p>
 
@@ -60,7 +60,7 @@ function LocationPage() {
 
   <p>The project should not be considered metro-connected by an operational station at present. Buyers should check the latest BMRCL construction and commissioning updates before relying on projected travel benefits.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Railway Connectivity</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Railway Connectivity</h2>
 
   <p>Railway connectivity provides another transportation option for people travelling between Bangalore and other cities.</p>
 
@@ -68,7 +68,7 @@ function LocationPage() {
 
   <p>Residents can evaluate these stations based on their actual destinations, train schedules and road access from the project.</p>
 
-  <h2 className="text-2xl font-bold">IT Parks and Employment Hubs Near Sobha Parqcity</h2>
+  <h2 className="text-2xl font-bold">IT Parks and Employment Hubs Near Sobha Parq City</h2>
 
   <p>The Hennur region benefits from its road connections to several employment centres in North Bangalore. This is relevant for professionals looking for residential properties within reach of their workplaces.</p>
 
@@ -109,7 +109,7 @@ function LocationPage() {
 
   <p>For working professionals, the actual commuting distance and peak-hour journey should be checked before selecting an apartment.</p>
 
-  <h2 className="text-2xl font-bold">Educational Institutions Near Sobha Parqcity</h2>
+  <h2 className="text-2xl font-bold">Educational Institutions Near Sobha Parq City</h2>
 
   <p>Families considering a home in Hennur can explore educational institutions across Hennur, Kothanur, Byrathi and the surrounding North Bangalore neighbourhoods.</p>
 
@@ -126,7 +126,7 @@ function LocationPage() {
 
   <p>The availability of different schools provides families with options to evaluate based on curriculum, admission requirements and commuting convenience.</p>
 
-  <h2 className="text-2xl font-bold">Hospitals Near Sobha Parqcity</h2>
+  <h2 className="text-2xl font-bold">Hospitals Near Sobha Parq City</h2>
 
   <p>Healthcare infrastructure is another important consideration when choosing a residential location. Hennur and its neighbouring localities have hospitals and speciality healthcare facilities serving different medical requirements.</p>
 
@@ -168,7 +168,7 @@ function LocationPage() {
 
   <p>The Hennur–Bagalur Main Road is also undergoing road improvement work, including white-topping and drainage-related upgrades. These improvements are intended to address road conditions and traffic movement, although construction delays and temporary congestion remain practical considerations.</p>
 
-  <h2 className="text-2xl font-bold">Why Consider Sobha Parqcity Location?</h2>
+  <h2 className="text-2xl font-bold">Why Consider Sobha Parq City Location?</h2>
 
   <p>The location can be evaluated from both residential and investment perspectives. Its access to employment centres, educational institutions, hospitals, shopping destinations and regional transport routes provides several factors for homebuyers to examine.</p>
 
@@ -178,7 +178,7 @@ function LocationPage() {
 </div>
 
 <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parqcity Location</h2>
+  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Location</h2>
 
   <h3 className="text-xl font-bold">1. Where is Sobha Parkcity located?</h3>
   <p>The project is located on Hennur Main Road in North Bangalore, within the wider Hennur region.</p>

@@ -3,27 +3,27 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import MasterPlanPage from "./MasterPlanPage";
 
 const PATH = "/master-plan";
-const TITLE = "Sobha Parqcity Master Plan | 50-Acre Layout & Towers";
+const TITLE = "Sobha Parq City Master Plan | 50-Acre Layout & Towers";
 const DESCRIPTION =
-  "Explore the Sobha Parqcity master plan on Hennur Main Road, North Bangalore, including the proposed 50-acre layout, 12 residential towers, approximately 4,463 apartments, 80% open space and a 50,000 sq. ft. clubhouse. Verify project details and approvals with the developer.";
+  "Explore the Sobha Parq City master plan on Hennur Main Road, North Bangalore, including the proposed 50-acre layout, 12 residential towers, approximately 4,463 apartments, 80% open space and a 50,000 sq. ft. clubhouse. Verify project details and approvals with the developer.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parqcity master plan",
-    "Sobha Parqcity site layout",
-    "Sobha Parqcity 50 acre master plan",
-    "Sobha Parqcity residential towers",
-    "Sobha Parqcity 12 towers",
-    "Sobha Parqcity 80% open space",
-    "Sobha Parqcity clubhouse area",
-    "Sobha Parqcity apartment master plan",
-    "Sobha Parqcity Hennur Main Road",
+    "Sobha Parq City master plan",
+    "Sobha Parq City site layout",
+    "Sobha Parq City 50 acre master plan",
+    "Sobha Parq City residential towers",
+    "Sobha Parq City 12 towers",
+    "Sobha Parq City 80% open space",
+    "Sobha Parq City clubhouse area",
+    "Sobha Parq City apartment master plan",
+    "Sobha Parq City Hennur Main Road",
     "North Bangalore township layout",
   ],
-  images: [{ ...IMAGES.masterPlan, alt: "Proposed master plan of Sobha Parqcity on Hennur Main Road, Bangalore" }],
+  images: [{ ...IMAGES.masterPlan, alt: "Proposed master plan of Sobha Parq City on Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [

@@ -3,27 +3,27 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import AmenitiesPage from "./AmenitiesPage";
 
 const PATH = "/amenities";
-const TITLE = "Sobha Parqcity Amenities | Clubhouse & Open Space, Hennur";
+const TITLE = "Sobha Parq City Amenities | Clubhouse & Open Space, Hennur";
 const DESCRIPTION =
-  "Explore the proposed Sobha Parqcity amenities on Hennur Main Road, North Bangalore. The project website states 40+ amenities, approximately 80% open space and a 50,000 sq. ft. clubhouse; verify facilities and specifications in the official amenity schedule.";
+  "Explore the proposed Sobha Parq City amenities on Hennur Main Road, North Bangalore. The project website states 40+ amenities, approximately 80% open space and a 50,000 sq. ft. clubhouse; verify facilities and specifications in the official amenity schedule.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parqcity amenities",
-    "Sobha Parqcity amenities list",
-    "Sobha Parqcity clubhouse",
-    "Sobha Parqcity clubhouse size",
-    "Sobha Parqcity 40 amenities",
-    "Sobha Parqcity open space",
-    "Sobha Parqcity Hennur Main Road",
-    "Sobha Parqcity gym swimming pool",
-    "Sobha Parqcity outdoor facilities",
+    "Sobha Parq City amenities",
+    "Sobha Parq City amenities list",
+    "Sobha Parq City clubhouse",
+    "Sobha Parq City clubhouse size",
+    "Sobha Parq City 40 amenities",
+    "Sobha Parq City open space",
+    "Sobha Parq City Hennur Main Road",
+    "Sobha Parq City gym swimming pool",
+    "Sobha Parq City outdoor facilities",
     "Hennur Bangalore apartment amenities",
   ],
-  images: [{ ...IMAGES.amenities, alt: "Lifestyle facilities at Sobha Parqcity, Hennur Main Road, Bangalore" }],
+  images: [{ ...IMAGES.amenities, alt: "Lifestyle facilities at Sobha Parq City, Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [

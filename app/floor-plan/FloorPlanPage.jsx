@@ -9,19 +9,19 @@ const floorPlans = [
     id: 1,
     label: "2 BHK Floor Plan",
     image: "./images/2bhk-floorplan.webp",
-    alt: "Sobha Parqcity 2 BHK floor plan, Sarjapur Bangalore",
+    alt: "Sobha Parq City 2 BHK floor plan, Sarjapur Bangalore",
   },
   {
     id: 2,
     label: "3 BHK Floor Plan",
     image: "./images/3bhk-floorplan.webp",
-    alt: "Sobha Parqcity 3 BHK floor plan, Sarjapur Bangalore",
+    alt: "Sobha Parq City 3 BHK floor plan, Sarjapur Bangalore",
   },
   {
     id: 3,
     label: "4 BHK Floor Plan",
     image: "./images/4bhk-floorplan.webp",
-    alt: "Sobha Parqcity 4 BHK floor plan, Sarjapur Bangalore",
+    alt: "Sobha Parq City 4 BHK floor plan, Sarjapur Bangalore",
   },
 ];
 
@@ -34,16 +34,16 @@ function FloorPlanPage() {
         </div>
         <div className="max-w-5xl mx-auto py-10">
           <h1 className="text-2xl md:text-3xl font-bold text-gray-800 text-center">
-            Sobha Parqcity Floor Plans
+            Sobha Parq City Floor Plans
           </h1>
           <DownloadActions/>
           
 <div className="space-y-6 text-gray-800 mt-6">
-  <p>The <strong>Sobha Parqcity Floor Plans</strong> provide an overview of the residential configurations, apartment sizes, and space planning proposed for this development on <a href="https://www.sobhaparqcity.in/location"><b>Hennur Main Road, North Bangalore</b></a>. Developed by <b>Sobha Group</b>, the project is planned across approximately <b>50 acres</b>, with <b>12 residential towers</b> accommodating more than <b>4,463 apartments</b>.</p>
+  <p>The <strong>Sobha Parq City Floor Plans</strong> provide an overview of the residential configurations, apartment sizes, and space planning proposed for this development on <a href="https://www.sobhaparqcity.in/location"><b>Hennur Main Road, North Bangalore</b></a>. Developed by <b>Sobha Group</b>, the project is planned across approximately <b>50 acres</b>, with <b>12 residential towers</b> accommodating more than <b>4,463 apartments</b>.</p>
 
   <p>The proposed apartment options include <b>1, 2, 3, and 4 BHK configurations</b>, according to the available apartment pricing information. These configurations are intended to address different household requirements, from compact residential layouts to larger family homes. Understanding the apartment sizes, room arrangements, and tower distribution can help buyers compare the available options before selecting a unit.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Floor Plan Configurations and Sizes</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Floor Plan Configurations and Sizes</h2>
 
   <p>The project offers different apartment configurations with varying super built-up areas. Each configuration provides a different amount of residential space, allowing buyers to assess their requirements based on household size and budget.</p>
 
@@ -80,7 +80,7 @@ function FloorPlanPage() {
 
   <p>These measurements are based on the supplied project information. Detailed room dimensions, carpet areas, balcony measurements, and final floor plan drawings should be obtained from the developer's official documents.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity 1 BHK Floor Plan</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City 1 BHK Floor Plan</h2>
   <img width={1000} height={664}
               className="w-full lg:w-1/2 m-auto mb-6"
               src="/images/floorplans/1bhk.webp"
@@ -94,7 +94,7 @@ function FloorPlanPage() {
 
   <p>The actual room arrangement and internal dimensions should be checked against the official apartment drawing.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity 2 BHK Floor Plan</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City 2 BHK Floor Plan</h2>
   <img width={1000} height={664}
               className="w-full lg:w-1/2 m-auto mb-6"
               src="/images/floorplans/2bhk.webp"
@@ -107,7 +107,7 @@ function FloorPlanPage() {
 
   <p>The 2 BHK option can be evaluated by households looking for a two-bedroom residential layout with additional space for daily activities.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity 3 BHK Floor Plan</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City 3 BHK Floor Plan</h2>
   <img width={1000} height={664}
               className="w-full lg:w-1/2 m-auto mb-6"
               src="/images/floorplans/3bhk.webp"
@@ -120,7 +120,7 @@ function FloorPlanPage() {
 
   <p>The larger configuration may be considered by families requiring additional bedrooms and more flexibility in their residential arrangement.</p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity 4 BHK Floor Plan</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City 4 BHK Floor Plan</h2>
   <img width={1000} height={664}
               className="w-full lg:w-1/2 m-auto mb-6"
               src="/images/floorplans/4bhk.webp"
@@ -133,7 +133,7 @@ function FloorPlanPage() {
 
   <p>The official floor plan will provide the necessary details about room dimensions and the distribution of internal space.</p>
 
-  <h2 className="text-2xl font-bold">Tower-Wise Apartment Distribution at Sobha Parqcity</h2>
+  <h2 className="text-2xl font-bold">Tower-Wise Apartment Distribution at Sobha Parq City</h2>
 
   <p><a href="https://www.sobhaparqcity.in/"><strong>Sobha Parkcity</strong></a> is planned with 12 residential towers and approximately 4,463+ apartments. This makes tower-wise distribution an important consideration when reviewing the overall residential layout.</p>
 
@@ -186,7 +186,7 @@ function FloorPlanPage() {
 </div>
 
 <div className="space-y-6 text-gray-800 mt-6">
-  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parqcity Floor Plans</h2>
+  <h2 className="text-2xl font-bold">Frequently Asked Questions About Sobha Parq City Floor Plans</h2>
 
   <h3 className="text-xl font-bold">1. What apartment configurations are available?</h3>
   <p>The supplied apartment information includes 1, 2, 3, and 4 BHK configurations.</p>

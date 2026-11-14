@@ -232,13 +232,13 @@ function BangalorePage({ faqs = [] }) {
 
         <section className="mt-10 rounded-xl bg-gray-50 p-5 md:p-7">
           <h2 className="text-xl font-semibold text-gray-900 md:text-2xl">
-            Sobha Parqcity on Hennur Main Road
+            Sobha Parq City on Hennur Main Road
           </h2>
           <p className="mt-4 leading-7 text-gray-800">
-            This website also publishes information about Sobha Parqcity, described here as a proposed residential development on Hennur Main Road in North Bengaluru. Check the latest project disclosures and applicable approvals independently, as project details, availability and pricing may change.
+            This website also publishes information about Sobha Parq City, described here as a proposed residential development on Hennur Main Road in North Bengaluru. Check the latest project disclosures and applicable approvals independently, as project details, availability and pricing may change.
           </p>
           <p className="mt-4 leading-7 text-gray-800">
-            Explore the <IntLink href="/">Sobha Parqcity overview</IntLink>, review its <IntLink href="/location">location information</IntLink>, or contact us to request current project material.
+            Explore the <IntLink href="/">Sobha Parq City overview</IntLink>, review its <IntLink href="/location">location information</IntLink>, or contact us to request current project material.
           </p>
           <div className="mt-5">
             <DownloadActions />

@@ -24,7 +24,7 @@ export const metadata = buildMetadata({
     "Sobha Townpark Bangalore",
     "Sobha Neopolis Bangalore",
     "Sobha Ayana Bangalore",
-    "Sobha Parqcity Hennur Main Road",
+    "Sobha Parq City Hennur Main Road",
   ],
   images: [{ ...IMAGES.banner, alt: "Bengaluru city guide and SOBHA residential projects" }],
 });

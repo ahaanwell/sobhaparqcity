@@ -89,12 +89,12 @@ export default function ProjectHighlights() {
           id="highlights-heading"
           className="text-xl md:text-2xl font-semibold text-gray-900 text-center mb-2"
         >
-          Sobha Parqcity Overview
+          Sobha Parq City Overview
         </h2>
         <div className="w-full h-px bg-gray-200 mb-6" />
         <div
           className="grid grid-cols-2 lg:grid-cols-4 gap-4"
-          aria-label="Sobha Parqcity project highlights"
+          aria-label="Sobha Parq City project highlights"
         >
           {highlights.map((item, index) => (
             <div
@@ -121,18 +121,18 @@ export default function ProjectHighlights() {
 <div className="space-y-6 text-gray-800 mt-6">
   
 <div className="space-y-6 text-gray-800">
-  <p><a href="https://www.sobhaparqcity.in/" ><strong>Sobha Parqcity</strong></a> is a proposed residential township by <strong>Sobha Group</strong>, planned on <strong>Hennur Main Road in North Bangalore, Karnataka</strong>. The large-scale development is designed to bring together multiple apartment configurations within a planned residential community, offering homebuyers a choice of living spaces to suit different household needs. Covering approximately <strong>50 acres</strong>, the proposed township is expected to feature <strong>12 blocks, 24 wings and around 4,463 apartments</strong>.</p>
+  <p><a href="https://www.sobhaparqcity.in/" ><strong>Sobha Parq City</strong></a> is a proposed residential township by <strong>Sobha Group</strong>, planned on <strong>Hennur Main Road in North Bangalore, Karnataka</strong>. The large-scale development is designed to bring together multiple apartment configurations within a planned residential community, offering homebuyers a choice of living spaces to suit different household needs. Covering approximately <strong>50 acres</strong>, the proposed township is expected to feature <strong>12 blocks, 24 wings and around 4,463 apartments</strong>.</p>
 
   <p>The development is planned with a floor structure of <strong>3 basements + ground + 42 floors</strong>. Its location on <b>Hennur Main Road</b> places the proposed project in North Bangalore, an area homebuyers can evaluate based on their commuting needs, access to everyday services and preferred residential surroundings. The proposed apartment options provide choices for buyers exploring a new home in this part of Bengaluru.</p>
 
-  <p><strong>Sobha Parqcity</strong> is currently described as being in the pre-launch stage, with possession planned for <b>2031</b>. Prospective homebuyers should evaluate the project based on its proposed development scale, location, residential planning, final specifications and construction progress. As the project is at an early stage, buyers should verify the exact project address, officially released documents, applicable approvals and current RERA registration status before making a booking decision.</p>
+  <p><strong>Sobha Parq City</strong> is currently described as being in the pre-launch stage, with possession planned for <b>2031</b>. Prospective homebuyers should evaluate the project based on its proposed development scale, location, residential planning, final specifications and construction progress. As the project is at an early stage, buyers should verify the exact project address, officially released documents, applicable approvals and current RERA registration status before making a booking decision.</p>
 </div>
 
 
-  <h3 className="text-xl font-bold">Sobha Parqcity Highlights</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City Highlights</h3>
 
   <ul className="list-disc space-y-2 pl-6">
-    <li><strong>Project Name:</strong> Sobha Parqcity</li>
+    <li><strong>Project Name:</strong> Sobha Parq City</li>
     <li><strong>Developer:</strong> Sobha Group</li>
     <li><strong>Project Type:</strong> Residential Township</li>
     <li><strong>Project Status:</strong> Pre-Launch</li>
@@ -159,7 +159,7 @@ export default function ProjectHighlights() {
     The final master plan will provide a clearer understanding of tower placement, internal circulation, open spaces and the distribution of common facilities. Buyers should refer to the officially released plans to understand how the proposed development is organised across the site.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parqcity Community Living</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City Community Living</h3>
 
   <p>
     <b>Sobha Parqcity</b> is proposed as a residential community centred on apartment living, with multiple configurations planned to accommodate different household requirements. This range gives prospective residents the opportunity to compare apartment options according to their space needs, budget and long-term residential plans.
@@ -172,7 +172,7 @@ export default function ProjectHighlights() {
   <h3 className="text-xl font-bold">Sobha Parqcity Project Status and Development Timeline</h3>
 
   <p>
-    Sobha Parqcity is currently described as a pre-launch development, with possession planned for 2031. As the project progresses, official updates will be important for understanding its approval status, construction schedule and development milestones.
+    Sobha Parq City is currently described as a pre-launch development, with possession planned for 2031. As the project progresses, official updates will be important for understanding its approval status, construction schedule and development milestones.
   </p>
 
   <p>

@@ -3,28 +3,28 @@ import { IMAGES, JsonLd, buildMetadata, pageSchema } from "@/lib/seo";
 import FloorPlanPage from "./FloorPlanPage";
 
 const PATH = "/floor-plan";
-const TITLE = "Sobha Parqcity Floor Plans & Sizes | 1–4 BHK, Hennur";
+const TITLE = "Sobha Parq City Floor Plans & Sizes | 1–4 BHK, Hennur";
 const DESCRIPTION =
-  "Explore Sobha Parqcity’s proposed 1, 2, 3 and 4 BHK floor plans on Hennur Main Road, North Bangalore. Compare listed apartment sizes from 750 to 2,600 sq. ft., tower details and planning information; request official drawings and verify areas with the developer.";
+  "Explore Sobha Parq City’s proposed 1, 2, 3 and 4 BHK floor plans on Hennur Main Road, North Bangalore. Compare listed apartment sizes from 750 to 2,600 sq. ft., tower details and planning information; request official drawings and verify areas with the developer.";
 
 export const metadata = buildMetadata({
   title: TITLE,
   description: DESCRIPTION,
   path: PATH,
   keywords: [
-    "Sobha Parqcity floor plans",
-    "Sobha Parqcity floor plan and apartment sizes",
-    "Sobha Parqcity 1 BHK floor plan",
-    "Sobha Parqcity 2 BHK floor plan",
-    "Sobha Parqcity 3 BHK floor plan",
-    "Sobha Parqcity 4 BHK floor plan",
-    "Sobha Parqcity 2 BHK size",
-    "Sobha Parqcity 3 BHK size",
-    "Sobha Parqcity 4 BHK size",
-    "Sobha Parqcity apartment layout Hennur",
-    "Sobha Parqcity tower-wise floor plan",
+    "Sobha Parq City floor plans",
+    "Sobha Parq City floor plan and apartment sizes",
+    "Sobha Parq City 1 BHK floor plan",
+    "Sobha Parq City 2 BHK floor plan",
+    "Sobha Parq City 3 BHK floor plan",
+    "Sobha Parq City 4 BHK floor plan",
+    "Sobha Parq City 2 BHK size",
+    "Sobha Parq City 3 BHK size",
+    "Sobha Parq City 4 BHK size",
+    "Sobha Parq City apartment layout Hennur",
+    "Sobha Parq City tower-wise floor plan",
   ],
-  images: [{ ...IMAGES.banner, alt: "Sobha Parqcity proposed apartment floor plans, Hennur Main Road, Bangalore" }],
+  images: [{ ...IMAGES.banner, alt: "Sobha Parq City proposed apartment floor plans, Hennur Main Road, Bangalore" }],
 });
 
 const FAQS = [

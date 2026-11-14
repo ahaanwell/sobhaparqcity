@@ -23,7 +23,7 @@ export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
     default: HOME_TITLE,
-    template: "%s | Sobha Parqcity",
+    template: "%s | Sobha Parq City",
   },
   description: HOME_DESCRIPTION,
   applicationName: SITE_NAME,

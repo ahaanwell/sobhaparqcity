@@ -49,7 +49,7 @@ export default function Footer() {
           {/* Social Media */}
           <div className="flex justify-center gap-5">
             <a
-              href="#"
+              href="https://www.facebook.com/sobhaparqcity"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-blue-600 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
@@ -76,7 +76,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="#"
+              href="https://x.com/sobhaparqcity"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-sky-500 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
@@ -84,7 +84,7 @@ export default function Footer() {
               <FaTwitter size={14} />
             </a>
             <a
-              href="#"
+              href="https://www.youtube.com/@sobhaparqcity"
               target="_blank"
               rel="noopener noreferrer"
               className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-100 text-gray-600 hover:bg-red-500 hover:text-white transition-all duration-300 transform hover:scale-110 shadow-sm"
@@ -95,7 +95,7 @@ export default function Footer() {
 
           {/* Copyright */}
           <p className="text-center text-xs md:text-sm text-gray-600">
-            © 2026 Sobha Parqcity. All rights reserved.
+            © 2026 Sobha Parq City. All rights reserved.
             <span className="hidden md:inline mx-2 text-gray-300">|</span>
             <br className="md:hidden" />
             Developed and Marketing by{" "}

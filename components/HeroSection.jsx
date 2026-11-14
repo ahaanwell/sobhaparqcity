@@ -27,7 +27,7 @@ export default function HeroSection() {
 
           <div className="inline-block lg:bg-black/20 px-6 py-3 rounded-md mb-5">
             <h1 className="text-3xl lg:text-2xl xl:text-3xl font-extrabold tracking-wide">
-              Sobha Parqcity
+              Sobha Parq City
             </h1>
           </div>
 

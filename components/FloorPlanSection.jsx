@@ -8,25 +8,25 @@ const floorPlans = [
     id: 1,
     label: "1 BHK Floor Plan",
     image: "./images/floorplans/1bhk.webp",
-    alt: "Sobha Parqcity 1 BHK floor plan",
+    alt: "Sobha Parq City 1 BHK floor plan",
   },
   {
     id: 2,
     label: "2 BHK Floor Plan",
     image: "./images/floorplans/2bhk.webp",
-    alt: "Sobha Parqcity 2 BHK floor plan",
+    alt: "Sobha Parq City 2 BHK floor plan",
   },
   {
     id: 3,
     label: "3 BHK Floor Plan",
     image: "./images/floorplans/3bhk.webp",
-    alt: "Sobha Parqcity 3 BHK floor plan",
+    alt: "Sobha Parq City 3 BHK floor plan",
   },
   {
     id: 4,
     label: "4 BHK Floor Plan",
     image: "./images/floorplans/4bhk.webp",
-    alt: "Sobha Parqcity 4 BHK floor plan",
+    alt: "Sobha Parq City 4 BHK floor plan",
   },
 ];
 
@@ -51,7 +51,7 @@ export default function FloorPlanSection() {
 
 <div className="space-y-6 text-gray-800 mb-6">
   <p>
-    The <a href="https://www.sobhaparqcity.in/floor-plan"><strong>Sobha Parqcity floor plans</strong></a> are designed around different space requirements, with proposed options including <b>1, 2, 3 and 4 BHK apartments</b>. The stated apartment sizes range from <b>750 sq. ft. to 2,600 sq. ft.</b>, giving homebuyers a choice of configurations based on their household size and preferred living space.
+    The <a href="https://www.sobhaparqcity.in/floor-plan"><strong>Sobha Parq City floor plans</strong></a> are designed around different space requirements, with proposed options including <b>1, 2, 3 and 4 BHK apartments</b>. The stated apartment sizes range from <b>750 sq. ft. to 2,600 sq. ft.</b>, giving homebuyers a choice of configurations based on their household size and preferred living space.
   </p>
 
   <p>
@@ -59,14 +59,14 @@ export default function FloorPlanSection() {
   </p>
 
   <p>
-    As Sobha Parqcity is currently in the pre-launch stage, the information below is based on the supplied apartment configurations and sizes. Final room layouts, dimensions, area definitions and specifications should be verified against the official floor plans released by the developer.
+    As Sobha Parq City is currently in the pre-launch stage, the information below is based on the supplied apartment configurations and sizes. Final room layouts, dimensions, area definitions and specifications should be verified against the official floor plans released by the developer.
   </p>
 </div>
 
 
         <ul
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3"
-          aria-label="Sobha Parqcity floor plans"
+          aria-label="Sobha Parq City floor plans"
         >
           {floorPlans.map((plan) => (
             <li
@@ -93,43 +93,43 @@ export default function FloorPlanSection() {
 
         
 <div className="space-y-6 text-gray-800 mt-6">
-  <h3 className="text-xl font-bold">Sobha Parqcity 1 BHK Floor Plan</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City 1 BHK Floor Plan</h3>
 
   <p>
-    The proposed <strong>Sobha Parqcity 1 BHK apartment</strong> is listed at 750 sq. ft. An approved 1 BHK floor-plan drawing has not been supplied, so buyers should request the official plan to verify room dimensions, layout and the stated area measurement.
+    The proposed <strong>Sobha Parq City 1 BHK apartment</strong> is listed at 750 sq. ft. An approved 1 BHK floor-plan drawing has not been supplied, so buyers should request the official plan to verify room dimensions, layout and the stated area measurement.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parqcity 2 BHK Floor Plan</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City 2 BHK Floor Plan</h3>
 
   <p>
-    The proposed <strong>Sobha Parqcity 2 BHK floor plan</strong> has a stated area of 1,400 sq. ft. This configuration may be suitable for couples, small families or buyers looking for a two-bedroom apartment. A typical 2 BHK home includes two bedrooms, a living and dining area, a kitchen and bathrooms. However, the exact room arrangement and number of bathrooms for this project have not yet been confirmed.
+    The proposed <strong>Sobha Parq City 2 BHK floor plan</strong> has a stated area of 1,400 sq. ft. This configuration may be suitable for couples, small families or buyers looking for a two-bedroom apartment. A typical 2 BHK home includes two bedrooms, a living and dining area, a kitchen and bathrooms. However, the exact room arrangement and number of bathrooms for this project have not yet been confirmed.
   </p>
 
   <p>
     When reviewing the 2 BHK floor plan, buyers should consider bedroom dimensions, living and dining space, kitchen placement, storage provisions and movement between rooms. These details can help determine whether the layout meets everyday household needs.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parqcity 3 BHK Floor Plan</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City 3 BHK Floor Plan</h3>
 
   <p>
-    The proposed <strong>Sobha Parqcity 3 BHK floor plan</strong> offers stated sizes ranging from 1,750 sq. ft. to 1,950 sq. ft. With three bedrooms, this configuration may suit families that need additional sleeping space, a guest room or a dedicated work-from-home area.
+    The proposed <strong>Sobha Parq City 3 BHK floor plan</strong> offers stated sizes ranging from 1,750 sq. ft. to 1,950 sq. ft. With three bedrooms, this configuration may suit families that need additional sleeping space, a guest room or a dedicated work-from-home area.
   </p>
 
   <p>
     The available size range gives buyers an opportunity to compare different 3 BHK options once the detailed drawings are released. Important considerations include bedroom dimensions, the arrangement of private and shared spaces, dining space, furniture placement and storage. The final plans will clarify how the available area is distributed across the apartment.
   </p>
 
-  <h3 className="text-xl font-bold">Sobha Parqcity 4 BHK Floor Plan</h3>
+  <h3 className="text-xl font-bold">Sobha Parq City 4 BHK Floor Plan</h3>
 
   <p>
-    The proposed <strong>Sobha Parqcity 4 BHK floor plan</strong> has a stated area of 2,600 sq. ft. This is the largest apartment configuration in the supplied size range and may suit larger households looking for four bedrooms and additional space for family activities.
+    The proposed <strong>Sobha Parq City 4 BHK floor plan</strong> has a stated area of 2,600 sq. ft. This is the largest apartment configuration in the supplied size range and may suit larger households looking for four bedrooms and additional space for family activities.
   </p>
 
   <p>
     When assessing this configuration, buyers should review the dimensions and arrangement of all bedrooms, living and dining areas, kitchen space, bathrooms and any additional rooms or storage provisions shown in the official drawing. The final floor plan will help establish how the available area is organised and whether it suits the household's requirements.
   </p>
 
-  <h2 className="text-2xl font-bold">Sobha Parqcity Floor Plan Size Comparison</h2>
+  <h2 className="text-2xl font-bold">Sobha Parq City Floor Plan Size Comparison</h2>
 
   <div className="overflow-x-auto">
     <table className="w-full border-collapse border border-gray-300">
@@ -165,7 +165,7 @@ export default function FloorPlanSection() {
     </table>
   </div>
 
-  <h3 className="text-xl font-bold">How to Choose a Sobha Parqcity Floor Plan</h3>
+  <h3 className="text-xl font-bold">How to Choose a Sobha Parq City Floor Plan</h3>
 
   <p>
     Choosing the right floor plan involves more than comparing the total square footage. Buyers should consider household size, privacy requirements, bedroom dimensions, furniture placement, storage needs and the practical arrangement of shared spaces. Natural light, ventilation and the position of windows and balconies are also worth reviewing in the official drawings.
