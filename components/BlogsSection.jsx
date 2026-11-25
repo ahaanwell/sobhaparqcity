@@ -1,19 +1,47 @@
 import Image from "next/image";
 import Link from "next/link";
-async function getBlogs() {
-  const res = await fetch(process.env.NEXT_PUBLIC_API || "https://m2nblogcmsapi.vercel.app/api/blogs/project/sobha-parq-city", {
-    headers: { "x-api-key": process.env.NEXT_PUBLIC_API_KEY || "sk_sobha_parq_city_9fd799d8926e6baed1090e78800104805989c4a48498e43c" },
-    next: { revalidate: 60 }
-  });
-  if (!res.ok) return [];
 
-  const data = await res.json();
-  return data.blogs || [];
+async function getBlogs() {
+  const url = process.env.NEXT_PUBLIC_API || "https://m2nblogcmsapi.vercel.app/api/blogs/project/sobha-parq-city";
+  const headers = {
+    "x-api-key": process.env.NEXT_PUBLIC_API_KEY || "sk_sobha_parq_city_9fd799d8926e6baed1090e78800104805989c4a48498e43c",
+  };
+  let lastError;
+
+  for (let attempt = 1; attempt <= 3; attempt += 1) {
+    try {
+      const res = await fetch(url, {
+        headers,
+        signal: AbortSignal.timeout(8000),
+        next: { revalidate: 60 },
+      });
+
+      if (!res.ok) {
+        lastError = new Error(`Blog API returned HTTP ${res.status}`);
+        if (res.status < 500 && res.status !== 429) break;
+      } else {
+        const data = await res.json();
+        if (!Array.isArray(data.blogs)) {
+          lastError = new Error("Blog API response did not contain a blogs array");
+        } else {
+          return data.blogs;
+        }
+      }
+    } catch (error) {
+      lastError = error;
+    }
+
+    if (attempt < 3) {
+      await new Promise((resolve) => setTimeout(resolve, attempt * 300));
+    }
+  }
+
+  console.error("Failed to fetch blogs after retries:", lastError?.message);
+  throw lastError;
 }
 
 export default async function BlogSection() {
-
-const blogs = await getBlogs();
+  const blogs = await getBlogs();
   if (!blogs || blogs.length === 0) return null;
   return (
     <section
